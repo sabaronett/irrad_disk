@@ -1,0 +1,982 @@
+  
+ ================================================================
+      WELCOME TO RADMC-3D: A 3-D CONTINUUM AND LINE RT SOLVER    
+                                                                 
+                          VERSION 2.0                            
+                                                                 
+                (c) 2008-2023 Cornelis Dullemond                 
+                                                                 
+       Please feel free to ask questions. Also please report     
+        bugs and/or suspicious behavior without hestitation.     
+      The reliability of this code depends on your vigilance!    
+                    dullemond@uni-heidelberg.de                  
+                                                                 
+   To keep up-to-date with bug-alarms and bugfixes, follow the   
+                     RADMC-3D code on github                     
+             https://github.com/dullemond/radmc3d-2.0            
+                                                                 
+              Please visit the RADMC-3D home page at             
+  http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/ 
+ ================================================================
+  
+ Number of processors:          128
+ Number of threads in use:          122
+ Reading global frequencies/wavelengths...
+ Reading grid file and prepare grid tree...
+ Reading star data...
+ Note: Please be aware that you treat the star(s) as
+       point source(s) while using spherical coordinate mode.
+       Since R_*<<R_in this is probably OK, but if you want
+       to play safe, then set istar_sphere = 1 in radmc3d.inp.
+ Note: Star 1 is taken to be a blackbody star
+       at a temperature T = 5784. Kelvin
+ Grid information (current status):
+   We have 131072 branches, of which 131072 are actual grid cells.
+   ---> 100.000% mem use for branches, and 100.000% mem use for actual cells.
+   No grid refinement is active. The AMR tree is not allocated (this saves memory).
+ Reading the heat source spatial distribution...
+ Beware: The OpenMP-parallel acceleration of RADMC-3D has 
+         not yet been tested with all of the modes and
+         features that RADMC-3D offers. Please check 
+         your parallel results against the serial version
+         (i.e. compiling without -fopenmp). 
+ Reading dust data...
+ Reading dust densities...
+ Dust mass total =    1.3016781300033471E-004  Msun
+ In Monte Carlo initialization: found that scattering_mode==0, so putting kappa_scat=0.
+ Computing emissivity database...
+ Computing total input luminosities...
+ Modified Random Walk mode is switched OFF
+  
+ Starting the thermal Monte Carlo simulation....
+ Thread Nr          76 of         122 threads in total
+ Thread Nr          69 of         122 threads in total
+ Thread Nr          12 of         122 threads in total
+ Thread Nr          28 of         122 threads in total
+ Thread Nr          50 of         122 threads in total
+ Thread Nr          90 of         122 threads in total
+ Thread Nr          45 of         122 threads in total
+ Thread Nr         109 of         122 threads in total
+ Thread Nr         112 of         122 threads in total
+ Thread Nr          18 of         122 threads in total
+ Thread Nr          66 of         122 threads in total
+ Thread Nr          84 of         122 threads in total
+ Thread Nr          80 of         122 threads in total
+ Thread Nr          32 of         122 threads in total
+ Thread Nr          10 of         122 threads in total
+ Thread Nr          94 of         122 threads in total
+ Thread Nr          20 of         122 threads in total
+ Thread Nr         114 of         122 threads in total
+ Thread Nr         103 of         122 threads in total
+ Thread Nr          49 of         122 threads in total
+ Thread Nr          46 of         122 threads in total
+ Thread Nr           6 of         122 threads in total
+ Thread Nr          71 of         122 threads in total
+ Thread Nr          86 of         122 threads in total
+ Thread Nr          79 of         122 threads in total
+ Thread Nr          35 of         122 threads in total
+ Thread Nr           4 of         122 threads in total
+ Thread Nr         120 of         122 threads in total
+ Thread Nr          96 of         122 threads in total
+ Thread Nr           1 of         122 threads in total
+ Thread Nr          36 of         122 threads in total
+ Thread Nr          16 of         122 threads in total
+ Thread Nr          68 of         122 threads in total
+ Thread Nr          72 of         122 threads in total
+ Thread Nr          62 of         122 threads in total
+ Thread Nr          48 of         122 threads in total
+ Thread Nr          93 of         122 threads in total
+ Thread Nr           8 of         122 threads in total
+ Thread Nr          42 of         122 threads in total
+ Thread Nr          61 of         122 threads in total
+ Thread Nr          44 of         122 threads in total
+ Thread Nr          22 of         122 threads in total
+ Thread Nr          98 of         122 threads in total
+ Thread Nr          58 of         122 threads in total
+ Thread Nr          95 of         122 threads in total
+ Thread Nr          26 of         122 threads in total
+ Thread Nr          47 of         122 threads in total
+ Thread Nr          29 of         122 threads in total
+ Thread Nr          11 of         122 threads in total
+ Thread Nr          75 of         122 threads in total
+ Thread Nr          25 of         122 threads in total
+ Thread Nr          13 of         122 threads in total
+ Thread Nr         107 of         122 threads in total
+ Thread Nr         106 of         122 threads in total
+ Thread Nr          73 of         122 threads in total
+ Thread Nr          15 of         122 threads in total
+ Thread Nr          82 of         122 threads in total
+ Thread Nr          57 of         122 threads in total
+ Thread Nr          23 of         122 threads in total
+ Thread Nr          97 of         122 threads in total
+ Thread Nr         116 of         122 threads in total
+ Thread Nr          67 of         122 threads in total
+ Thread Nr         100 of         122 threads in total
+ Thread Nr           3 of         122 threads in total
+ Thread Nr          64 of         122 threads in total
+ Thread Nr          40 of         122 threads in total
+ Thread Nr          85 of         122 threads in total
+ Thread Nr          77 of         122 threads in total
+ Thread Nr          39 of         122 threads in total
+ Thread Nr          63 of         122 threads in total
+ Thread Nr          37 of         122 threads in total
+ Thread Nr           5 of         122 threads in total
+ Thread Nr          53 of         122 threads in total
+ Thread Nr          27 of         122 threads in total
+ Thread Nr          59 of         122 threads in total
+ Thread Nr         104 of         122 threads in total
+ Thread Nr          34 of         122 threads in total
+ Thread Nr          21 of         122 threads in total
+ Thread Nr          52 of         122 threads in total
+ Thread Nr          92 of         122 threads in total
+ Thread Nr          54 of         122 threads in total
+ Thread Nr         111 of         122 threads in total
+ Thread Nr          56 of         122 threads in total
+ Thread Nr          74 of         122 threads in total
+ Thread Nr         118 of         122 threads in total
+ Thread Nr         121 of         122 threads in total
+ Thread Nr          17 of         122 threads in total
+ Thread Nr          78 of         122 threads in total
+ Thread Nr           0 of         122 threads in total
+ Thread Nr          19 of         122 threads in total
+ Thread Nr          38 of         122 threads in total
+ Thread Nr          70 of         122 threads in total
+ Thread Nr          33 of         122 threads in total
+ Thread Nr          55 of         122 threads in total
+ Thread Nr          31 of         122 threads in total
+ Thread Nr         108 of         122 threads in total
+ Thread Nr         102 of         122 threads in total
+ Thread Nr          88 of         122 threads in total
+ Thread Nr          99 of         122 threads in total
+ Thread Nr         105 of         122 threads in total
+ Thread Nr         110 of         122 threads in total
+ Thread Nr          65 of         122 threads in total
+ Thread Nr          83 of         122 threads in total
+ Thread Nr         113 of         122 threads in total
+ Thread Nr          43 of         122 threads in total
+ Thread Nr          81 of         122 threads in total
+ Thread Nr          51 of         122 threads in total
+ Thread Nr          30 of         122 threads in total
+ Thread Nr          14 of         122 threads in total
+ Thread Nr         119 of         122 threads in total
+ Thread Nr          41 of         122 threads in total
+ Thread Nr           9 of         122 threads in total
+ Thread Nr          24 of         122 threads in total
+ Thread Nr          89 of         122 threads in total
+ Thread Nr           2 of         122 threads in total
+ Thread Nr           7 of         122 threads in total
+ Thread Nr          87 of         122 threads in total
+ Thread Nr         101 of         122 threads in total
+ Thread Nr         117 of         122 threads in total
+ Thread Nr          60 of         122 threads in total
+ Thread Nr         115 of         122 threads in total
+ Thread Nr          91 of         122 threads in total
+ Thread:          30 Photon nr:              1000000
+ Thread:           6 Photon nr:              2000000
+ Thread:          52 Photon nr:              3000000
+ Thread:         105 Photon nr:              4000000
+ Thread:          24 Photon nr:              5000000
+ Thread:          22 Photon nr:              6000000
+ Thread:         117 Photon nr:              7000000
+ Thread:         119 Photon nr:              8000000
+ Thread:         109 Photon nr:              9000000
+ Thread:          92 Photon nr:             10000000
+ Thread:          47 Photon nr:             11000000
+ Thread:          38 Photon nr:             12000000
+ Thread:          62 Photon nr:             13000000
+ Thread:          92 Photon nr:             14000000
+ Thread:         120 Photon nr:             15000000
+ Thread:          50 Photon nr:             16000000
+ Thread:          43 Photon nr:             17000000
+ Thread:          93 Photon nr:             18000000
+ Thread:          58 Photon nr:             19000000
+ Thread:          45 Photon nr:             20000000
+ Thread:          78 Photon nr:             21000000
+ Thread:          59 Photon nr:             22000000
+ Thread:          99 Photon nr:             23000000
+ Thread:          45 Photon nr:             24000000
+ Thread:          66 Photon nr:             25000000
+ Thread:         111 Photon nr:             26000000
+ Thread:          54 Photon nr:             27000000
+ Thread:           2 Photon nr:             28000000
+ Thread:         103 Photon nr:             29000000
+ Thread:           1 Photon nr:             30000000
+ Thread:          36 Photon nr:             31000000
+ Thread:          88 Photon nr:             32000000
+ Thread:          61 Photon nr:             33000000
+ Thread:         118 Photon nr:             34000000
+ Thread:          92 Photon nr:             35000000
+ Thread:          54 Photon nr:             36000000
+ Thread:          58 Photon nr:             37000000
+ Thread:          52 Photon nr:             38000000
+ Thread:          43 Photon nr:             39000000
+ Thread:          66 Photon nr:             40000000
+ Thread:          36 Photon nr:             41000000
+ Thread:          38 Photon nr:             42000000
+ Thread:           9 Photon nr:             43000000
+ Thread:          35 Photon nr:             44000000
+ Thread:          92 Photon nr:             45000000
+ Thread:         109 Photon nr:             46000000
+ Thread:         118 Photon nr:             47000000
+ Thread:          47 Photon nr:             48000000
+ Thread:          70 Photon nr:             49000000
+ Thread:          41 Photon nr:             50000000
+ Thread:           0 Photon nr:             51000000
+ Thread:         104 Photon nr:             52000000
+ Thread:          88 Photon nr:             53000000
+ Thread:         103 Photon nr:             54000000
+ Thread:          15 Photon nr:             55000000
+ Thread:          59 Photon nr:             56000000
+ Thread:          46 Photon nr:             57000000
+ Thread:           3 Photon nr:             58000000
+ Thread:          16 Photon nr:             59000000
+ Thread:          56 Photon nr:             60000000
+ Thread:          38 Photon nr:             61000000
+ Thread:          22 Photon nr:             62000000
+ Thread:          70 Photon nr:             63000000
+ Thread:          26 Photon nr:             64000000
+ Thread:           6 Photon nr:             65000000
+ Thread:          72 Photon nr:             66000000
+ Thread:         118 Photon nr:             67000000
+ Thread:          45 Photon nr:             68000000
+ Thread:         103 Photon nr:             69000000
+ Thread:          75 Photon nr:             70000000
+ Thread:         114 Photon nr:             71000000
+ Thread:          23 Photon nr:             72000000
+ Thread:         101 Photon nr:             73000000
+ Thread:          62 Photon nr:             74000000
+ Thread:         111 Photon nr:             75000000
+ Thread:          63 Photon nr:             76000000
+ Thread:          62 Photon nr:             77000000
+ Thread:          69 Photon nr:             78000000
+ Thread:         114 Photon nr:             79000000
+ Thread:          62 Photon nr:             80000000
+ Thread:          26 Photon nr:             81000000
+ Thread:           0 Photon nr:             82000000
+ Thread:          42 Photon nr:             83000000
+ Thread:         120 Photon nr:             84000000
+ Thread:         111 Photon nr:             85000000
+ Thread:         118 Photon nr:             86000000
+ Thread:          55 Photon nr:             87000000
+ Thread:         102 Photon nr:             88000000
+ Thread:         105 Photon nr:             89000000
+ Thread:           6 Photon nr:             90000000
+ Thread:          12 Photon nr:             91000000
+ Thread:          21 Photon nr:             92000000
+ Thread:         116 Photon nr:             93000000
+ Thread:          86 Photon nr:             94000000
+ Thread:          28 Photon nr:             95000000
+ Thread:         120 Photon nr:             96000000
+ Thread:          62 Photon nr:             97000000
+ Thread:          21 Photon nr:             98000000
+ Thread:          35 Photon nr:             99000000
+ Thread:          34 Photon nr:            100000000
+ Thread:          14 Photon nr:            101000000
+ Thread:         103 Photon nr:            102000000
+ Thread:          66 Photon nr:            103000000
+ Thread:          73 Photon nr:            104000000
+ Thread:          80 Photon nr:            105000000
+ Thread:          97 Photon nr:            106000000
+ Thread:         115 Photon nr:            107000000
+ Thread:          52 Photon nr:            108000000
+ Thread:          51 Photon nr:            109000000
+ Thread:          73 Photon nr:            110000000
+ Thread:          66 Photon nr:            111000000
+ Thread:          52 Photon nr:            112000000
+ Thread:          27 Photon nr:            113000000
+ Thread:          80 Photon nr:            114000000
+ Thread:         101 Photon nr:            115000000
+ Thread:          27 Photon nr:            116000000
+ Thread:          18 Photon nr:            117000000
+ Thread:         103 Photon nr:            118000000
+ Thread:           6 Photon nr:            119000000
+ Thread:          38 Photon nr:            120000000
+ Thread:          52 Photon nr:            121000000
+ Thread:          90 Photon nr:            122000000
+ Thread:         109 Photon nr:            123000000
+ Thread:          49 Photon nr:            124000000
+ Thread:           2 Photon nr:            125000000
+ Thread:          16 Photon nr:            126000000
+ Thread:          57 Photon nr:            127000000
+ Thread:          72 Photon nr:            128000000
+ Thread:         115 Photon nr:            129000000
+ Thread:         105 Photon nr:            130000000
+ Thread:          52 Photon nr:            131000000
+ Thread:          13 Photon nr:            132000000
+ Thread:          25 Photon nr:            133000000
+ Thread:          92 Photon nr:            134000000
+ Thread:         117 Photon nr:            135000000
+ Thread:           1 Photon nr:            136000000
+ Thread:          62 Photon nr:            137000000
+ Thread:          86 Photon nr:            138000000
+ Thread:          54 Photon nr:            139000000
+ Thread:          52 Photon nr:            140000000
+ Thread:         106 Photon nr:            141000000
+ Thread:          52 Photon nr:            142000000
+ Thread:          31 Photon nr:            143000000
+ Thread:          97 Photon nr:            144000000
+ Thread:          52 Photon nr:            145000000
+ Thread:          28 Photon nr:            146000000
+ Thread:          62 Photon nr:            147000000
+ Thread:         104 Photon nr:            148000000
+ Thread:          66 Photon nr:            149000000
+ Thread:          27 Photon nr:            150000000
+ Thread:           8 Photon nr:            151000000
+ Thread:         111 Photon nr:            152000000
+ Thread:         108 Photon nr:            153000000
+ Thread:          92 Photon nr:            154000000
+ Thread:           6 Photon nr:            155000000
+ Thread:         115 Photon nr:            156000000
+ Thread:           8 Photon nr:            157000000
+ Thread:          92 Photon nr:            158000000
+ Thread:          49 Photon nr:            159000000
+ Thread:          28 Photon nr:            160000000
+ Thread:           8 Photon nr:            161000000
+ Thread:          27 Photon nr:            162000000
+ Thread:           8 Photon nr:            163000000
+ Thread:          42 Photon nr:            164000000
+ Thread:          36 Photon nr:            165000000
+ Thread:         105 Photon nr:            166000000
+ Thread:          90 Photon nr:            167000000
+ Thread:         118 Photon nr:            168000000
+ Thread:          96 Photon nr:            169000000
+ Thread:         105 Photon nr:            170000000
+ Thread:          28 Photon nr:            171000000
+ Thread:          57 Photon nr:            172000000
+ Thread:         101 Photon nr:            173000000
+ Thread:          25 Photon nr:            174000000
+ Thread:          63 Photon nr:            175000000
+ Thread:          80 Photon nr:            176000000
+ Thread:          95 Photon nr:            177000000
+ Thread:          22 Photon nr:            178000000
+ Thread:          86 Photon nr:            179000000
+ Thread:          87 Photon nr:            180000000
+ Thread:          96 Photon nr:            181000000
+ Thread:         101 Photon nr:            182000000
+ Thread:          30 Photon nr:            183000000
+ Thread:          90 Photon nr:            184000000
+ Thread:          80 Photon nr:            185000000
+ Thread:          96 Photon nr:            186000000
+ Thread:          68 Photon nr:            187000000
+ Thread:          28 Photon nr:            188000000
+ Thread:         102 Photon nr:            189000000
+ Thread:          68 Photon nr:            190000000
+ Thread:           9 Photon nr:            191000000
+ Thread:          42 Photon nr:            192000000
+ Thread:          40 Photon nr:            193000000
+ Thread:          20 Photon nr:            194000000
+ Thread:          28 Photon nr:            195000000
+ Thread:          52 Photon nr:            196000000
+ Thread:         118 Photon nr:            197000000
+ Thread:         104 Photon nr:            198000000
+ Thread:          28 Photon nr:            199000000
+ Thread:          47 Photon nr:            200000000
+ Thread:         104 Photon nr:            201000000
+ Thread:          34 Photon nr:            202000000
+ Thread:          52 Photon nr:            203000000
+ Thread:         111 Photon nr:            204000000
+ Thread:          10 Photon nr:            205000000
+ Thread:         109 Photon nr:            206000000
+ Thread:         118 Photon nr:            207000000
+ Thread:          36 Photon nr:            208000000
+ Thread:          32 Photon nr:            209000000
+ Thread:          29 Photon nr:            210000000
+ Thread:          55 Photon nr:            211000000
+ Thread:         118 Photon nr:            212000000
+ Thread:         115 Photon nr:            213000000
+ Thread:          92 Photon nr:            214000000
+ Thread:         104 Photon nr:            215000000
+ Thread:         103 Photon nr:            216000000
+ Thread:         116 Photon nr:            217000000
+ Thread:          51 Photon nr:            218000000
+ Thread:          86 Photon nr:            219000000
+ Thread:           0 Photon nr:            220000000
+ Thread:          28 Photon nr:            221000000
+ Thread:          32 Photon nr:            222000000
+ Thread:         103 Photon nr:            223000000
+ Thread:           2 Photon nr:            224000000
+ Thread:           2 Photon nr:            225000000
+ Thread:          82 Photon nr:            226000000
+ Thread:          28 Photon nr:            227000000
+ Thread:         100 Photon nr:            228000000
+ Thread:           2 Photon nr:            229000000
+ Thread:           2 Photon nr:            230000000
+ Thread:          25 Photon nr:            231000000
+ Thread:         117 Photon nr:            232000000
+ Thread:          66 Photon nr:            233000000
+ Thread:          45 Photon nr:            234000000
+ Thread:          80 Photon nr:            235000000
+ Thread:         104 Photon nr:            236000000
+ Thread:          63 Photon nr:            237000000
+ Thread:          94 Photon nr:            238000000
+ Thread:          52 Photon nr:            239000000
+ Thread:          45 Photon nr:            240000000
+ Thread:          57 Photon nr:            241000000
+ Thread:          20 Photon nr:            242000000
+ Thread:          86 Photon nr:            243000000
+ Thread:         104 Photon nr:            244000000
+ Thread:          58 Photon nr:            245000000
+ Thread:           0 Photon nr:            246000000
+ Thread:          80 Photon nr:            247000000
+ Thread:         101 Photon nr:            248000000
+ Thread:           0 Photon nr:            249000000
+ Thread:          82 Photon nr:            250000000
+ Thread:          24 Photon nr:            251000000
+ Thread:         118 Photon nr:            252000000
+ Thread:          18 Photon nr:            253000000
+ Thread:          50 Photon nr:            254000000
+ Thread:          42 Photon nr:            255000000
+ Thread:          59 Photon nr:            256000000
+ Thread:         114 Photon nr:            257000000
+ Thread:          19 Photon nr:            258000000
+ Thread:         115 Photon nr:            259000000
+ Thread:          49 Photon nr:            260000000
+ Thread:          35 Photon nr:            261000000
+ Thread:         109 Photon nr:            262000000
+ Thread:           4 Photon nr:            263000000
+ Thread:          40 Photon nr:            264000000
+ Thread:          95 Photon nr:            265000000
+ Thread:           2 Photon nr:            266000000
+ Thread:          35 Photon nr:            267000000
+ Thread:          73 Photon nr:            268000000
+ Thread:          47 Photon nr:            269000000
+ Thread:          13 Photon nr:            270000000
+ Thread:          87 Photon nr:            271000000
+ Thread:          98 Photon nr:            272000000
+ Thread:          82 Photon nr:            273000000
+ Thread:         109 Photon nr:            274000000
+ Thread:          44 Photon nr:            275000000
+ Thread:         114 Photon nr:            276000000
+ Thread:         101 Photon nr:            277000000
+ Thread:          88 Photon nr:            278000000
+ Thread:          24 Photon nr:            279000000
+ Thread:          56 Photon nr:            280000000
+ Thread:           0 Photon nr:            281000000
+ Thread:          40 Photon nr:            282000000
+ Thread:          63 Photon nr:            283000000
+ Thread:          98 Photon nr:            284000000
+ Thread:          73 Photon nr:            285000000
+ Thread:          62 Photon nr:            286000000
+ Thread:           2 Photon nr:            287000000
+ Thread:         101 Photon nr:            288000000
+ Thread:          20 Photon nr:            289000000
+ Thread:          35 Photon nr:            290000000
+ Thread:          66 Photon nr:            291000000
+ Thread:          77 Photon nr:            292000000
+ Thread:          34 Photon nr:            293000000
+ Thread:          37 Photon nr:            294000000
+ Thread:         115 Photon nr:            295000000
+ Thread:          49 Photon nr:            296000000
+ Thread:         101 Photon nr:            297000000
+ Thread:          15 Photon nr:            298000000
+ Thread:         118 Photon nr:            299000000
+ Thread:          15 Photon nr:            300000000
+ Thread:          14 Photon nr:            301000000
+ Thread:          14 Photon nr:            302000000
+ Thread:          33 Photon nr:            303000000
+ Thread:          85 Photon nr:            304000000
+ Thread:          75 Photon nr:            305000000
+ Thread:          92 Photon nr:            306000000
+ Thread:         102 Photon nr:            307000000
+ Thread:          27 Photon nr:            308000000
+ Thread:          85 Photon nr:            309000000
+ Thread:           1 Photon nr:            310000000
+ Thread:          85 Photon nr:            311000000
+ Thread:         114 Photon nr:            312000000
+ Thread:          47 Photon nr:            313000000
+ Thread:          44 Photon nr:            314000000
+ Thread:          72 Photon nr:            315000000
+ Thread:          97 Photon nr:            316000000
+ Thread:          49 Photon nr:            317000000
+ Thread:          41 Photon nr:            318000000
+ Thread:         108 Photon nr:            319000000
+ Thread:          16 Photon nr:            320000000
+ Thread:          49 Photon nr:            321000000
+ Thread:         107 Photon nr:            322000000
+ Thread:          97 Photon nr:            323000000
+ Thread:          41 Photon nr:            324000000
+ Thread:          32 Photon nr:            325000000
+ Thread:         108 Photon nr:            326000000
+ Thread:           0 Photon nr:            327000000
+ Thread:           0 Photon nr:            328000000
+ Thread:          97 Photon nr:            329000000
+ Thread:           1 Photon nr:            330000000
+ Thread:           1 Photon nr:            331000000
+ Thread:          22 Photon nr:            332000000
+ Thread:          93 Photon nr:            333000000
+ Thread:         108 Photon nr:            334000000
+ Thread:         111 Photon nr:            335000000
+ Thread:          34 Photon nr:            336000000
+ Thread:           2 Photon nr:            337000000
+ Thread:          66 Photon nr:            338000000
+ Thread:          83 Photon nr:            339000000
+ Thread:           1 Photon nr:            340000000
+ Thread:          66 Photon nr:            341000000
+ Thread:          34 Photon nr:            342000000
+ Thread:          66 Photon nr:            343000000
+ Thread:          40 Photon nr:            344000000
+ Thread:          62 Photon nr:            345000000
+ Thread:         105 Photon nr:            346000000
+ Thread:          31 Photon nr:            347000000
+ Thread:          20 Photon nr:            348000000
+ Thread:          20 Photon nr:            349000000
+ Thread:          31 Photon nr:            350000000
+ Thread:          38 Photon nr:            351000000
+ Thread:          63 Photon nr:            352000000
+ Thread:          93 Photon nr:            353000000
+ Thread:          90 Photon nr:            354000000
+ Thread:          68 Photon nr:            355000000
+ Thread:          34 Photon nr:            356000000
+ Thread:         101 Photon nr:            357000000
+ Thread:         107 Photon nr:            358000000
+ Thread:          35 Photon nr:            359000000
+ Thread:          25 Photon nr:            360000000
+ Thread:         118 Photon nr:            361000000
+ Thread:         109 Photon nr:            362000000
+ Thread:          98 Photon nr:            363000000
+ Thread:          27 Photon nr:            364000000
+ Thread:          13 Photon nr:            365000000
+ Thread:          66 Photon nr:            366000000
+ Thread:          62 Photon nr:            367000000
+ Thread:          59 Photon nr:            368000000
+ Thread:         116 Photon nr:            369000000
+ Thread:          20 Photon nr:            370000000
+ Thread:           6 Photon nr:            371000000
+ Thread:          85 Photon nr:            372000000
+ Thread:         107 Photon nr:            373000000
+ Thread:          27 Photon nr:            374000000
+ Thread:         101 Photon nr:            375000000
+ Thread:          52 Photon nr:            376000000
+ Thread:           2 Photon nr:            377000000
+ Thread:          85 Photon nr:            378000000
+ Thread:         118 Photon nr:            379000000
+ Thread:          18 Photon nr:            380000000
+ Thread:          44 Photon nr:            381000000
+ Thread:          31 Photon nr:            382000000
+ Thread:          34 Photon nr:            383000000
+ Thread:         107 Photon nr:            384000000
+ Thread:          18 Photon nr:            385000000
+ Thread:          80 Photon nr:            386000000
+ Thread:          24 Photon nr:            387000000
+ Thread:          44 Photon nr:            388000000
+ Thread:         102 Photon nr:            389000000
+ Thread:          88 Photon nr:            390000000
+ Thread:          25 Photon nr:            391000000
+ Thread:         101 Photon nr:            392000000
+ Thread:         105 Photon nr:            393000000
+ Thread:          41 Photon nr:            394000000
+ Thread:         113 Photon nr:            395000000
+ Thread:          24 Photon nr:            396000000
+ Thread:          93 Photon nr:            397000000
+ Thread:          24 Photon nr:            398000000
+ Thread:           1 Photon nr:            399000000
+ Thread:          57 Photon nr:            400000000
+ Thread:          55 Photon nr:            401000000
+ Thread:          25 Photon nr:            402000000
+ Thread:           8 Photon nr:            403000000
+ Thread:          98 Photon nr:            404000000
+ Thread:         101 Photon nr:            405000000
+ Thread:           8 Photon nr:            406000000
+ Thread:          98 Photon nr:            407000000
+ Thread:          22 Photon nr:            408000000
+ Thread:          56 Photon nr:            409000000
+ Thread:          34 Photon nr:            410000000
+ Thread:          96 Photon nr:            411000000
+ Thread:         103 Photon nr:            412000000
+ Thread:          95 Photon nr:            413000000
+ Thread:          15 Photon nr:            414000000
+ Thread:         101 Photon nr:            415000000
+ Thread:         103 Photon nr:            416000000
+ Thread:           8 Photon nr:            417000000
+ Thread:          98 Photon nr:            418000000
+ Thread:         102 Photon nr:            419000000
+ Thread:         118 Photon nr:            420000000
+ Thread:          16 Photon nr:            421000000
+ Thread:          27 Photon nr:            422000000
+ Thread:           1 Photon nr:            423000000
+ Thread:         108 Photon nr:            424000000
+ Thread:         101 Photon nr:            425000000
+ Thread:         102 Photon nr:            426000000
+ Thread:          56 Photon nr:            427000000
+ Thread:          78 Photon nr:            428000000
+ Thread:          89 Photon nr:            429000000
+ Thread:         109 Photon nr:            430000000
+ Thread:          34 Photon nr:            431000000
+ Thread:         109 Photon nr:            432000000
+ Thread:          85 Photon nr:            433000000
+ Thread:         113 Photon nr:            434000000
+ Thread:          97 Photon nr:            435000000
+ Thread:         116 Photon nr:            436000000
+ Thread:          22 Photon nr:            437000000
+ Thread:          16 Photon nr:            438000000
+ Thread:         118 Photon nr:            439000000
+ Thread:          44 Photon nr:            440000000
+ Thread:          52 Photon nr:            441000000
+ Thread:          29 Photon nr:            442000000
+ Thread:         117 Photon nr:            443000000
+ Thread:         103 Photon nr:            444000000
+ Thread:          59 Photon nr:            445000000
+ Thread:          95 Photon nr:            446000000
+ Thread:          51 Photon nr:            447000000
+ Thread:          99 Photon nr:            448000000
+ Thread:          75 Photon nr:            449000000
+ Thread:         116 Photon nr:            450000000
+ Thread:         113 Photon nr:            451000000
+ Thread:         121 Photon nr:            452000000
+ Thread:          86 Photon nr:            453000000
+ Thread:          66 Photon nr:            454000000
+ Thread:          61 Photon nr:            455000000
+ Thread:          25 Photon nr:            456000000
+ Thread:         114 Photon nr:            457000000
+ Thread:          53 Photon nr:            458000000
+ Thread:         109 Photon nr:            459000000
+ Thread:          40 Photon nr:            460000000
+ Thread:          54 Photon nr:            461000000
+ Thread:         109 Photon nr:            462000000
+ Thread:         109 Photon nr:            463000000
+ Thread:          80 Photon nr:            464000000
+ Thread:          77 Photon nr:            465000000
+ Thread:          41 Photon nr:            466000000
+ Thread:          28 Photon nr:            467000000
+ Thread:         100 Photon nr:            468000000
+ Thread:          59 Photon nr:            469000000
+ Thread:          63 Photon nr:            470000000
+ Thread:          34 Photon nr:            471000000
+ Thread:          25 Photon nr:            472000000
+ Thread:         109 Photon nr:            473000000
+ Thread:          98 Photon nr:            474000000
+ Thread:          99 Photon nr:            475000000
+ Thread:          97 Photon nr:            476000000
+ Thread:          78 Photon nr:            477000000
+ Thread:           2 Photon nr:            478000000
+ Thread:           0 Photon nr:            479000000
+ Thread:          99 Photon nr:            480000000
+ Thread:          78 Photon nr:            481000000
+ Thread:          36 Photon nr:            482000000
+ Thread:          77 Photon nr:            483000000
+ Thread:          10 Photon nr:            484000000
+ Thread:          93 Photon nr:            485000000
+ Thread:          57 Photon nr:            486000000
+ Thread:          36 Photon nr:            487000000
+ Thread:          85 Photon nr:            488000000
+ Thread:          97 Photon nr:            489000000
+ Thread:           4 Photon nr:            490000000
+ Thread:          66 Photon nr:            491000000
+ Thread:          67 Photon nr:            492000000
+ Thread:           6 Photon nr:            493000000
+ Thread:          77 Photon nr:            494000000
+ Thread:          55 Photon nr:            495000000
+ Thread:          76 Photon nr:            496000000
+ Thread:          66 Photon nr:            497000000
+ Thread:          69 Photon nr:            498000000
+ Thread:          97 Photon nr:            499000000
+ Thread:         115 Photon nr:            500000000
+ Thread:          46 Photon nr:            501000000
+ Thread:           3 Photon nr:            502000000
+ Thread:         100 Photon nr:            503000000
+ Thread:          47 Photon nr:            504000000
+ Thread:          97 Photon nr:            505000000
+ Thread:          66 Photon nr:            506000000
+ Thread:          40 Photon nr:            507000000
+ Thread:          93 Photon nr:            508000000
+ Thread:          85 Photon nr:            509000000
+ Thread:          16 Photon nr:            510000000
+ Thread:         115 Photon nr:            511000000
+ Thread:          85 Photon nr:            512000000
+ Thread:         107 Photon nr:            513000000
+ Thread:          78 Photon nr:            514000000
+ Thread:         113 Photon nr:            515000000
+ Thread:          53 Photon nr:            516000000
+ Thread:         102 Photon nr:            517000000
+ Thread:          12 Photon nr:            518000000
+ Thread:          42 Photon nr:            519000000
+ Thread:          11 Photon nr:            520000000
+ Thread:          86 Photon nr:            521000000
+ Thread:           4 Photon nr:            522000000
+ Thread:          61 Photon nr:            523000000
+ Thread:          40 Photon nr:            524000000
+ Thread:          41 Photon nr:            525000000
+ Thread:          47 Photon nr:            526000000
+ Thread:          45 Photon nr:            527000000
+ Thread:          99 Photon nr:            528000000
+ Thread:          45 Photon nr:            529000000
+ Thread:          30 Photon nr:            530000000
+ Thread:         115 Photon nr:            531000000
+ Thread:          55 Photon nr:            532000000
+ Thread:           3 Photon nr:            533000000
+ Thread:          38 Photon nr:            534000000
+ Thread:          54 Photon nr:            535000000
+ Thread:          32 Photon nr:            536000000
+ Thread:          93 Photon nr:            537000000
+ Thread:          80 Photon nr:            538000000
+ Thread:          86 Photon nr:            539000000
+ Thread:          49 Photon nr:            540000000
+ Thread:         100 Photon nr:            541000000
+ Thread:          25 Photon nr:            542000000
+ Thread:          75 Photon nr:            543000000
+ Thread:         101 Photon nr:            544000000
+ Thread:          30 Photon nr:            545000000
+ Thread:          66 Photon nr:            546000000
+ Thread:          24 Photon nr:            547000000
+ Thread:          18 Photon nr:            548000000
+ Thread:           3 Photon nr:            549000000
+ Thread:          49 Photon nr:            550000000
+ Thread:         110 Photon nr:            551000000
+ Thread:          32 Photon nr:            552000000
+ Thread:          22 Photon nr:            553000000
+ Thread:          54 Photon nr:            554000000
+ Thread:           4 Photon nr:            555000000
+ Thread:          98 Photon nr:            556000000
+ Thread:          97 Photon nr:            557000000
+ Thread:          11 Photon nr:            558000000
+ Thread:          86 Photon nr:            559000000
+ Thread:           2 Photon nr:            560000000
+ Thread:          98 Photon nr:            561000000
+ Thread:          29 Photon nr:            562000000
+ Thread:          52 Photon nr:            563000000
+ Thread:          38 Photon nr:            564000000
+ Thread:         113 Photon nr:            565000000
+ Thread:          42 Photon nr:            566000000
+ Thread:          55 Photon nr:            567000000
+ Thread:          89 Photon nr:            568000000
+ Thread:          78 Photon nr:            569000000
+ Thread:          95 Photon nr:            570000000
+ Thread:           2 Photon nr:            571000000
+ Thread:         113 Photon nr:            572000000
+ Thread:          78 Photon nr:            573000000
+ Thread:         117 Photon nr:            574000000
+ Thread:          97 Photon nr:            575000000
+ Thread:          46 Photon nr:            576000000
+ Thread:          11 Photon nr:            577000000
+ Thread:           8 Photon nr:            578000000
+ Thread:          14 Photon nr:            579000000
+ Thread:         117 Photon nr:            580000000
+ Thread:         116 Photon nr:            581000000
+ Thread:          46 Photon nr:            582000000
+ Thread:         117 Photon nr:            583000000
+ Thread:          30 Photon nr:            584000000
+ Thread:           6 Photon nr:            585000000
+ Thread:          18 Photon nr:            586000000
+ Thread:          40 Photon nr:            587000000
+ Thread:          30 Photon nr:            588000000
+ Thread:          66 Photon nr:            589000000
+ Thread:          24 Photon nr:            590000000
+ Thread:          80 Photon nr:            591000000
+ Thread:          52 Photon nr:            592000000
+ Thread:          38 Photon nr:            593000000
+ Thread:          17 Photon nr:            594000000
+ Thread:          80 Photon nr:            595000000
+ Thread:          55 Photon nr:            596000000
+ Thread:          42 Photon nr:            597000000
+ Thread:          10 Photon nr:            598000000
+ Thread:          55 Photon nr:            599000000
+ Thread:          32 Photon nr:            600000000
+ Thread:          97 Photon nr:            601000000
+ Thread:          18 Photon nr:            602000000
+ Thread:           6 Photon nr:            603000000
+ Thread:           2 Photon nr:            604000000
+ Thread:          34 Photon nr:            605000000
+ Thread:         117 Photon nr:            606000000
+ Thread:          24 Photon nr:            607000000
+ Thread:         113 Photon nr:            608000000
+ Thread:          76 Photon nr:            609000000
+ Thread:          47 Photon nr:            610000000
+ Thread:          26 Photon nr:            611000000
+ Thread:         107 Photon nr:            612000000
+ Thread:          67 Photon nr:            613000000
+ Thread:          72 Photon nr:            614000000
+ Thread:          41 Photon nr:            615000000
+ Thread:          87 Photon nr:            616000000
+ Thread:          38 Photon nr:            617000000
+ Thread:          32 Photon nr:            618000000
+ Thread:          29 Photon nr:            619000000
+ Thread:          17 Photon nr:            620000000
+ Thread:          38 Photon nr:            621000000
+ Thread:          17 Photon nr:            622000000
+ Thread:          72 Photon nr:            623000000
+ Thread:          23 Photon nr:            624000000
+ Thread:          39 Photon nr:            625000000
+ Thread:          29 Photon nr:            626000000
+ Thread:           7 Photon nr:            627000000
+ Thread:           1 Photon nr:            628000000
+ Thread:           1 Photon nr:            629000000
+ Thread:          92 Photon nr:            630000000
+ Thread:          55 Photon nr:            631000000
+ Thread:         102 Photon nr:            632000000
+ Thread:          36 Photon nr:            633000000
+ Thread:           1 Photon nr:            634000000
+ Thread:          86 Photon nr:            635000000
+ Thread:         104 Photon nr:            636000000
+ Thread:          23 Photon nr:            637000000
+ Thread:          92 Photon nr:            638000000
+ Thread:         108 Photon nr:            639000000
+ Thread:          96 Photon nr:            640000000
+ Thread:          13 Photon nr:            641000000
+ Thread:         104 Photon nr:            642000000
+ Thread:          75 Photon nr:            643000000
+ Thread:          25 Photon nr:            644000000
+ Thread:          77 Photon nr:            645000000
+ Thread:         101 Photon nr:            646000000
+ Thread:          75 Photon nr:            647000000
+ Thread:          49 Photon nr:            648000000
+ Thread:          76 Photon nr:            649000000
+ Thread:          46 Photon nr:            650000000
+ Thread:          16 Photon nr:            651000000
+ Thread:          46 Photon nr:            652000000
+ Thread:          17 Photon nr:            653000000
+ Thread:          97 Photon nr:            654000000
+ Thread:         111 Photon nr:            655000000
+ Thread:          87 Photon nr:            656000000
+ Thread:           6 Photon nr:            657000000
+ Thread:          55 Photon nr:            658000000
+ Thread:          99 Photon nr:            659000000
+ Thread:          62 Photon nr:            660000000
+ Thread:          99 Photon nr:            661000000
+ Thread:          55 Photon nr:            662000000
+ Thread:          20 Photon nr:            663000000
+ Thread:          86 Photon nr:            664000000
+ Thread:          12 Photon nr:            665000000
+ Thread:          87 Photon nr:            666000000
+ Thread:          15 Photon nr:            667000000
+ Thread:          30 Photon nr:            668000000
+ Thread:         105 Photon nr:            669000000
+ Thread:         102 Photon nr:            670000000
+ Thread:          76 Photon nr:            671000000
+ Thread:          59 Photon nr:            672000000
+ Thread:           7 Photon nr:            673000000
+ Thread:          86 Photon nr:            674000000
+ Thread:          93 Photon nr:            675000000
+ Thread:          20 Photon nr:            676000000
+ Thread:          62 Photon nr:            677000000
+ Thread:          86 Photon nr:            678000000
+ Thread:         117 Photon nr:            679000000
+ Thread:           1 Photon nr:            680000000
+ Thread:          93 Photon nr:            681000000
+ Thread:          51 Photon nr:            682000000
+ Thread:          77 Photon nr:            683000000
+ Thread:          23 Photon nr:            684000000
+ Thread:          98 Photon nr:            685000000
+ Thread:          97 Photon nr:            686000000
+ Thread:          87 Photon nr:            687000000
+ Thread:         102 Photon nr:            688000000
+ Thread:         101 Photon nr:            689000000
+ Thread:         120 Photon nr:            690000000
+ Thread:          96 Photon nr:            691000000
+ Thread:         115 Photon nr:            692000000
+ Thread:          78 Photon nr:            693000000
+ Thread:          49 Photon nr:            694000000
+ Thread:          96 Photon nr:            695000000
+ Thread:          11 Photon nr:            696000000
+ Thread:          12 Photon nr:            697000000
+ Thread:          53 Photon nr:            698000000
+ Thread:          40 Photon nr:            699000000
+ Thread:         119 Photon nr:            700000000
+ Thread:          62 Photon nr:            701000000
+ Thread:         110 Photon nr:            702000000
+ Thread:           1 Photon nr:            703000000
+ Thread:          36 Photon nr:            704000000
+ Thread:          56 Photon nr:            705000000
+ Thread:          90 Photon nr:            706000000
+ Thread:          75 Photon nr:            707000000
+ Thread:          63 Photon nr:            708000000
+ Thread:          12 Photon nr:            709000000
+ Thread:          89 Photon nr:            710000000
+ Thread:          34 Photon nr:            711000000
+ Thread:          92 Photon nr:            712000000
+ Thread:          42 Photon nr:            713000000
+ Thread:          12 Photon nr:            714000000
+ Thread:          47 Photon nr:            715000000
+ Thread:         111 Photon nr:            716000000
+ Thread:           8 Photon nr:            717000000
+ Thread:           5 Photon nr:            718000000
+ Thread:         121 Photon nr:            719000000
+ Thread:          66 Photon nr:            720000000
+ Thread:          70 Photon nr:            721000000
+ Thread:          51 Photon nr:            722000000
+ Thread:           6 Photon nr:            723000000
+ Thread:           1 Photon nr:            724000000
+ Thread:         108 Photon nr:            725000000
+ Thread:          42 Photon nr:            726000000
+ Thread:         107 Photon nr:            727000000
+ Thread:         106 Photon nr:            728000000
+ Thread:          75 Photon nr:            729000000
+ Thread:          10 Photon nr:            730000000
+ Thread:          63 Photon nr:            731000000
+ Thread:          79 Photon nr:            732000000
+ Thread:          96 Photon nr:            733000000
+ Thread:          19 Photon nr:            734000000
+ Thread:          22 Photon nr:            735000000
+ Thread:           1 Photon nr:            736000000
+ Thread:           0 Photon nr:            737000000
+ Thread:           2 Photon nr:            738000000
+ Thread:          13 Photon nr:            739000000
+ Thread:           2 Photon nr:            740000000
+ Thread:          79 Photon nr:            741000000
+ Thread:          97 Photon nr:            742000000
+ Thread:          96 Photon nr:            743000000
+ Thread:          45 Photon nr:            744000000
+ Thread:          99 Photon nr:            745000000
+ Thread:          95 Photon nr:            746000000
+ Thread:         121 Photon nr:            747000000
+ Thread:          63 Photon nr:            748000000
+ Thread:          77 Photon nr:            749000000
+ Thread:          30 Photon nr:            750000000
+ Thread:           2 Photon nr:            751000000
+ Thread:          11 Photon nr:            752000000
+ Thread:         108 Photon nr:            753000000
+ Thread:          11 Photon nr:            754000000
+ Thread:          30 Photon nr:            755000000
+ Thread:          92 Photon nr:            756000000
+ Thread:          23 Photon nr:            757000000
+ Thread:         114 Photon nr:            758000000
+ Thread:          46 Photon nr:            759000000
+ Thread:          95 Photon nr:            760000000
+ Thread:           0 Photon nr:            761000000
+ Thread:          70 Photon nr:            762000000
+ Thread:          18 Photon nr:            763000000
+ Thread:          51 Photon nr:            764000000
+ Thread:          72 Photon nr:            765000000
+ Thread:          96 Photon nr:            766000000
+ Thread:          82 Photon nr:            767000000
+ Thread:          77 Photon nr:            768000000
+ Thread:          98 Photon nr:            769000000
+ Thread:           8 Photon nr:            770000000
+ Thread:          23 Photon nr:            771000000
+ Thread:          25 Photon nr:            772000000
+ Thread:         110 Photon nr:            773000000
+ Thread:          40 Photon nr:            774000000
+ Thread:          18 Photon nr:            775000000
+ Thread:          19 Photon nr:            776000000
+ Thread:         108 Photon nr:            777000000
+ Thread:          11 Photon nr:            778000000
+ Thread:         108 Photon nr:            779000000
+ Thread:          51 Photon nr:            780000000
+ Thread:         108 Photon nr:            781000000
+ Thread:          76 Photon nr:            782000000
+ Thread:         108 Photon nr:            783000000
+ Thread:          68 Photon nr:            784000000
+ Thread:          66 Photon nr:            785000000
+ Thread:         114 Photon nr:            786000000
+ Thread:          86 Photon nr:            787000000
+ Thread:          38 Photon nr:            788000000
+ Thread:          23 Photon nr:            789000000
+ Thread:         102 Photon nr:            790000000
+ Thread:          75 Photon nr:            791000000
+ Thread:          40 Photon nr:            792000000
+ Thread:          88 Photon nr:            793000000
+ Thread:          40 Photon nr:            794000000
+ Thread:          28 Photon nr:            795000000
+ Thread:           0 Photon nr:            796000000
+ Thread:          15 Photon nr:            797000000
+ Thread:         101 Photon nr:            798000000
+ Thread:         110 Photon nr:            799000000
+ Thread:          27 Photon nr:            800000000
+ Elapsed time:   942.74814998599959     
+ Done with Bjorkman & Wood Monte Carlo simulation
+ Using the parallel version of RADMC-3D
+ Number of parallel threads used:          122
+ Average number of abs/scat events per photon package =    2.2113073637500000     
+ Average nr of times a photon stays in the same cell  =   0.20601772328993292     
+ Maximum nr of times a photon stayed in the same cell =           20
+ Saving results of thermal Monte Carlo
+ Done...

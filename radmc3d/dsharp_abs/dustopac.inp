@@ -1,0 +1,7 @@
+2               iformat (Format number of this file)
+1               nspec (Nr of dust species)
+============================================================================
+1               inputstyle (Way in which this dust species is read)
+0               iquantum (0=Thermal grain)
+dsharp_abs      Extension of name of dustkappa_***.inp file
+----------------------------------------------------------------------------

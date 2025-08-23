@@ -1,0 +1,7 @@
+countwrite = 1000000
+iranfreqmode = 1
+istar_sphere = 0
+nphot = 800000000
+nphot_mono = 1000000
+scattering_mode_max = 0
+setthreads = 122

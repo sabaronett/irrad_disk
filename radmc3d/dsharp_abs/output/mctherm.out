@@ -1,0 +1,262 @@
+  
+ ================================================================
+      WELCOME TO RADMC-3D: A 3-D CONTINUUM AND LINE RT SOLVER    
+                                                                 
+                          VERSION 2.0                            
+                                                                 
+                (c) 2008-2023 Cornelis Dullemond                 
+                                                                 
+       Please feel free to ask questions. Also please report     
+        bugs and/or suspicious behavior without hestitation.     
+      The reliability of this code depends on your vigilance!    
+                    dullemond@uni-heidelberg.de                  
+                                                                 
+   To keep up-to-date with bug-alarms and bugfixes, follow the   
+                     RADMC-3D code on github                     
+             https://github.com/dullemond/radmc3d-2.0            
+                                                                 
+              Please visit the RADMC-3D home page at             
+  http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/ 
+ ================================================================
+  
+ Number of processors:          128
+ Number of threads in use:          122
+ Reading global frequencies/wavelengths...
+ Reading grid file and prepare grid tree...
+ Reading star data...
+ Note: Please be aware that you treat the star(s) as
+       point source(s) while using spherical coordinate mode.
+       Since R_*<<R_in this is probably OK, but if you want
+       to play safe, then set istar_sphere = 1 in radmc3d.inp.
+ Note: Star 1 is taken to be a blackbody star
+       at a temperature T = 5784. Kelvin
+ Grid information (current status):
+   We have 131072 branches, of which 131072 are actual grid cells.
+   ---> 100.000% mem use for branches, and 100.000% mem use for actual cells.
+   No grid refinement is active. The AMR tree is not allocated (this saves memory).
+ Reading the heat source spatial distribution...
+ Beware: The OpenMP-parallel acceleration of RADMC-3D has 
+         not yet been tested with all of the modes and
+         features that RADMC-3D offers. Please check 
+         your parallel results against the serial version
+         (i.e. compiling without -fopenmp). 
+ Reading dust data...
+ Reading dust densities...
+ Dust mass total =    1.3016781300033471E-004  Msun
+ In Monte Carlo initialization: found that scattering_mode==0, so putting kappa_scat=0.
+ Computing emissivity database...
+ Computing total input luminosities...
+ Modified Random Walk mode is switched OFF
+  
+ Starting the thermal Monte Carlo simulation....
+ Thread Nr         104 of         122 threads in total
+ Thread Nr          22 of         122 threads in total
+ Thread Nr         107 of         122 threads in total
+ Thread Nr          70 of         122 threads in total
+ Thread Nr          28 of         122 threads in total
+ Thread Nr          68 of         122 threads in total
+ Thread Nr          34 of         122 threads in total
+ Thread Nr           7 of         122 threads in total
+ Thread Nr          50 of         122 threads in total
+ Thread Nr         111 of         122 threads in total
+ Thread Nr         100 of         122 threads in total
+ Thread Nr          29 of         122 threads in total
+ Thread Nr          90 of         122 threads in total
+ Thread Nr         113 of         122 threads in total
+ Thread Nr          74 of         122 threads in total
+ Thread Nr          61 of         122 threads in total
+ Thread Nr          17 of         122 threads in total
+ Thread Nr          16 of         122 threads in total
+ Thread Nr          35 of         122 threads in total
+ Thread Nr          41 of         122 threads in total
+ Thread Nr          91 of         122 threads in total
+ Thread Nr          63 of         122 threads in total
+ Thread Nr          56 of         122 threads in total
+ Thread Nr          84 of         122 threads in total
+ Thread Nr           2 of         122 threads in total
+ Thread Nr          13 of         122 threads in total
+ Thread Nr          85 of         122 threads in total
+ Thread Nr          57 of         122 threads in total
+ Thread Nr          21 of         122 threads in total
+ Thread Nr         102 of         122 threads in total
+ Thread Nr         120 of         122 threads in total
+ Thread Nr          71 of         122 threads in total
+ Thread Nr         118 of         122 threads in total
+ Thread Nr          88 of         122 threads in total
+ Thread Nr          37 of         122 threads in total
+ Thread Nr          38 of         122 threads in total
+ Thread Nr         106 of         122 threads in total
+ Thread Nr          31 of         122 threads in total
+ Thread Nr          15 of         122 threads in total
+ Thread Nr           1 of         122 threads in total
+ Thread Nr          36 of         122 threads in total
+ Thread Nr          45 of         122 threads in total
+ Thread Nr          82 of         122 threads in total
+ Thread Nr          89 of         122 threads in total
+ Thread Nr          73 of         122 threads in total
+ Thread Nr         108 of         122 threads in total
+ Thread Nr          46 of         122 threads in total
+ Thread Nr          83 of         122 threads in total
+ Thread Nr         117 of         122 threads in total
+ Thread Nr          99 of         122 threads in total
+ Thread Nr          93 of         122 threads in total
+ Thread Nr          20 of         122 threads in total
+ Thread Nr          77 of         122 threads in total
+ Thread Nr          79 of         122 threads in total
+ Thread Nr           8 of         122 threads in total
+ Thread Nr          39 of         122 threads in total
+ Thread Nr          14 of         122 threads in total
+ Thread Nr          80 of         122 threads in total
+ Thread Nr          26 of         122 threads in total
+ Thread Nr          47 of         122 threads in total
+ Thread Nr          10 of         122 threads in total
+ Thread Nr          94 of         122 threads in total
+ Thread Nr          33 of         122 threads in total
+ Thread Nr          58 of         122 threads in total
+ Thread Nr          51 of         122 threads in total
+ Thread Nr          18 of         122 threads in total
+ Thread Nr          53 of         122 threads in total
+ Thread Nr          62 of         122 threads in total
+ Thread Nr          40 of         122 threads in total
+ Thread Nr         121 of         122 threads in total
+ Thread Nr          81 of         122 threads in total
+ Thread Nr          64 of         122 threads in total
+ Thread Nr          23 of         122 threads in total
+ Thread Nr          11 of         122 threads in total
+ Thread Nr         110 of         122 threads in total
+ Thread Nr          65 of         122 threads in total
+ Thread Nr          44 of         122 threads in total
+ Thread Nr           5 of         122 threads in total
+ Thread Nr         112 of         122 threads in total
+ Thread Nr          67 of         122 threads in total
+ Thread Nr          19 of         122 threads in total
+ Thread Nr         101 of         122 threads in total
+ Thread Nr           9 of         122 threads in total
+ Thread Nr          86 of         122 threads in total
+ Thread Nr          32 of         122 threads in total
+ Thread Nr          66 of         122 threads in total
+ Thread Nr          96 of         122 threads in total
+ Thread Nr           4 of         122 threads in total
+ Thread Nr          78 of         122 threads in total
+ Thread Nr          92 of         122 threads in total
+ Thread Nr          12 of         122 threads in total
+ Thread Nr          25 of         122 threads in total
+ Thread Nr          55 of         122 threads in total
+ Thread Nr          43 of         122 threads in total
+ Thread Nr          54 of         122 threads in total
+ Thread Nr          69 of         122 threads in total
+ Thread Nr         105 of         122 threads in total
+ Thread Nr          49 of         122 threads in total
+ Thread Nr          98 of         122 threads in total
+ Thread Nr          97 of         122 threads in total
+ Thread Nr          87 of         122 threads in total
+ Thread Nr          48 of         122 threads in total
+ Thread Nr          52 of         122 threads in total
+ Thread Nr          75 of         122 threads in total
+ Thread Nr         119 of         122 threads in total
+ Thread Nr         109 of         122 threads in total
+ Thread Nr          59 of         122 threads in total
+ Thread Nr           6 of         122 threads in total
+ Thread Nr           3 of         122 threads in total
+ Thread Nr          42 of         122 threads in total
+ Thread Nr          30 of         122 threads in total
+ Thread Nr          60 of         122 threads in total
+ Thread Nr         116 of         122 threads in total
+ Thread Nr         114 of         122 threads in total
+ Thread Nr         115 of         122 threads in total
+ Thread Nr          24 of         122 threads in total
+ Thread Nr          76 of         122 threads in total
+ Thread Nr          95 of         122 threads in total
+ Thread Nr         103 of         122 threads in total
+ Thread Nr           0 of         122 threads in total
+ Thread Nr          27 of         122 threads in total
+ Thread Nr          72 of         122 threads in total
+ Thread:          80 Photon nr:             10000000
+ Thread:          60 Photon nr:             20000000
+ Thread:         109 Photon nr:             30000000
+ Thread:          59 Photon nr:             40000000
+ Thread:           9 Photon nr:             50000000
+ Thread:          45 Photon nr:             60000000
+ Thread:         103 Photon nr:             70000000
+ Thread:          83 Photon nr:             80000000
+ Thread:           4 Photon nr:             90000000
+ Thread:          28 Photon nr:            100000000
+ Thread:          96 Photon nr:            110000000
+ Thread:          99 Photon nr:            120000000
+ Thread:          74 Photon nr:            130000000
+ Thread:          62 Photon nr:            140000000
+ Thread:         109 Photon nr:            150000000
+ Thread:          45 Photon nr:            160000000
+ Thread:          28 Photon nr:            170000000
+ Thread:          44 Photon nr:            180000000
+ Thread:          25 Photon nr:            190000000
+ Thread:          85 Photon nr:            200000000
+ Thread:         118 Photon nr:            210000000
+ Thread:         108 Photon nr:            220000000
+ Thread:          48 Photon nr:            230000000
+ Thread:         116 Photon nr:            240000000
+ Thread:          29 Photon nr:            250000000
+ Thread:          54 Photon nr:            260000000
+ Thread:         105 Photon nr:            270000000
+ Thread:           1 Photon nr:            280000000
+ Thread:          82 Photon nr:            290000000
+ Thread:         109 Photon nr:            300000000
+ Thread:          70 Photon nr:            310000000
+ Thread:         109 Photon nr:            320000000
+ Thread:           6 Photon nr:            330000000
+ Thread:          14 Photon nr:            340000000
+ Thread:          77 Photon nr:            350000000
+ Thread:           2 Photon nr:            360000000
+ Thread:          83 Photon nr:            370000000
+ Thread:          19 Photon nr:            380000000
+ Thread:          28 Photon nr:            390000000
+ Thread:          94 Photon nr:            400000000
+ Thread:          57 Photon nr:            410000000
+ Thread:          19 Photon nr:            420000000
+ Thread:          74 Photon nr:            430000000
+ Thread:          68 Photon nr:            440000000
+ Thread:          46 Photon nr:            450000000
+ Thread:          13 Photon nr:            460000000
+ Thread:          11 Photon nr:            470000000
+ Thread:          67 Photon nr:            480000000
+ Thread:          13 Photon nr:            490000000
+ Thread:          77 Photon nr:            500000000
+ Thread:          74 Photon nr:            510000000
+ Thread:          46 Photon nr:            520000000
+ Thread:           0 Photon nr:            530000000
+ Thread:          40 Photon nr:            540000000
+ Thread:         111 Photon nr:            550000000
+ Thread:          24 Photon nr:            560000000
+ Thread:          48 Photon nr:            570000000
+ Thread:          82 Photon nr:            580000000
+ Thread:          92 Photon nr:            590000000
+ Thread:          94 Photon nr:            600000000
+ Thread:          40 Photon nr:            610000000
+ Thread:          94 Photon nr:            620000000
+ Thread:          19 Photon nr:            630000000
+ Thread:          74 Photon nr:            640000000
+ Thread:          57 Photon nr:            650000000
+ Thread:          82 Photon nr:            660000000
+ Thread:         121 Photon nr:            670000000
+ Thread:          84 Photon nr:            680000000
+ Thread:          68 Photon nr:            690000000
+ Thread:          68 Photon nr:            700000000
+ Thread:          10 Photon nr:            710000000
+ Thread:          31 Photon nr:            720000000
+ Thread:          48 Photon nr:            730000000
+ Thread:         109 Photon nr:            740000000
+ Thread:          92 Photon nr:            750000000
+ Thread:          11 Photon nr:            760000000
+ Thread:         112 Photon nr:            770000000
+ Thread:           9 Photon nr:            780000000
+ Thread:          92 Photon nr:            790000000
+ Thread:           7 Photon nr:            800000000
+ Elapsed time:   860.91612653600168     
+ Done with Bjorkman & Wood Monte Carlo simulation
+ Using the parallel version of RADMC-3D
+ Number of parallel threads used:          122
+ Average number of abs/scat events per photon package =   0.75225824124999996     
+ Average nr of times a photon stays in the same cell  =    3.5546476794041326E-002
+ Maximum nr of times a photon stayed in the same cell =           13
+ Saving results of thermal Monte Carlo
+ Done...

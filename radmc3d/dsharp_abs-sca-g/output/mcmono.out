@@ -1,0 +1,98 @@
+  
+ ================================================================
+      WELCOME TO RADMC-3D: A 3-D CONTINUUM AND LINE RT SOLVER    
+                                                                 
+                          VERSION 2.0                            
+                                                                 
+                (c) 2008-2023 Cornelis Dullemond                 
+                                                                 
+       Please feel free to ask questions. Also please report     
+        bugs and/or suspicious behavior without hestitation.     
+      The reliability of this code depends on your vigilance!    
+                    dullemond@uni-heidelberg.de                  
+                                                                 
+   To keep up-to-date with bug-alarms and bugfixes, follow the   
+                     RADMC-3D code on github                     
+             https://github.com/dullemond/radmc3d-2.0            
+                                                                 
+              Please visit the RADMC-3D home page at             
+  http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/ 
+ ================================================================
+  
+ Number of processors:          128
+ Number of threads in use:          122
+ Reading global frequencies/wavelengths...
+ Reading grid file and prepare grid tree...
+ Reading star data...
+ Note: Please be aware that you treat the star(s) as
+       point source(s) while using spherical coordinate mode.
+       Since R_*<<R_in this is probably OK, but if you want
+       to play safe, then set istar_sphere = 1 in radmc3d.inp.
+ Note: Star 1 is taken to be a blackbody star
+       at a temperature T = 5784. Kelvin
+ Grid information (current status):
+   We have 131072 branches, of which 131072 are actual grid cells.
+   ---> 100.000% mem use for branches, and 100.000% mem use for actual cells.
+   No grid refinement is active. The AMR tree is not allocated (this saves memory).
+ Reading the heat source spatial distribution...
+   --> Including dust
+       No lines included...
+       No gas continuum included...
+ Reading dust data...
+ Reading dust densities...
+ Dust mass total =    1.3016781300033471E-004  Msun
+ Reading dust temperatures...
+ Beware: The OpenMP-parallel acceleration of RADMC-3D has 
+         not yet been tested with all of the modes and
+         features that RADMC-3D offers. Please check 
+         your parallel results against the serial version
+         (i.e. compiling without -fopenmp). 
+  
+ ================================================================
+      WELCOME TO RADMC-3D: A 3-D CONTINUUM AND LINE RT SOLVER    
+                                                                 
+                          VERSION 2.0                            
+                                                                 
+                (c) 2008-2023 Cornelis Dullemond                 
+                                                                 
+       Please feel free to ask questions. Also please report     
+        bugs and/or suspicious behavior without hestitation.     
+      The reliability of this code depends on your vigilance!    
+                    dullemond@uni-heidelberg.de                  
+                                                                 
+   To keep up-to-date with bug-alarms and bugfixes, follow the   
+                     RADMC-3D code on github                     
+             https://github.com/dullemond/radmc3d-2.0            
+                                                                 
+              Please visit the RADMC-3D home page at             
+  http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/ 
+ ================================================================
+  
+ Number of processors:          128
+ Number of threads in use:          122
+ Reading global frequencies/wavelengths...
+ Reading grid file and prepare grid tree...
+ Reading star data...
+ Note: Please be aware that you treat the star(s) as
+       point source(s) while using spherical coordinate mode.
+       Since R_*<<R_in this is probably OK, but if you want
+       to play safe, then set istar_sphere = 1 in radmc3d.inp.
+ Note: Star 1 is taken to be a blackbody star
+       at a temperature T = 5784. Kelvin
+ Grid information (current status):
+   We have 131072 branches, of which 131072 are actual grid cells.
+   ---> 100.000% mem use for branches, and 100.000% mem use for actual cells.
+   No grid refinement is active. The AMR tree is not allocated (this saves memory).
+ Reading the heat source spatial distribution...
+   --> Including dust
+       No lines included...
+       No gas continuum included...
+ Reading dust data...
+ Reading dust densities...
+ Dust mass total =    1.3016781300033471E-004  Msun
+ Reading dust temperatures...
+ Beware: The OpenMP-parallel acceleration of RADMC-3D has 
+         not yet been tested with all of the modes and
+         features that RADMC-3D offers. Please check 
+         your parallel results against the serial version
+         (i.e. compiling without -fopenmp). 

@@ -1,0 +1,1064 @@
+Mon Jan  6 15:31:22 EST 2025
+worker5112
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) modules/2.3-20240529   2) openblas/single-0.3.26
+
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+### Scattering mode in [Mesh::InitUserMeshData]
+	scattering = 1
+
+Setup complete, entering main loop...
+
+cycle=0 time=0.0000000000000000e+00 dt=1.6163690977836630e-04
+Iteration stops at niter: 144 relative error: 9.8581763987574449e-07
+Iteration stops at niter: 221 relative error: 9.8496137706763057e-07
+cycle=1 time=1.6163690977836630e-04 dt=1.6163690977836630e-04
+Iteration stops at niter: 131 relative error: 9.6624199121547049e-07
+Iteration stops at niter: 202 relative error: 9.9446828629014554e-07
+cycle=2 time=3.2327381955673260e-04 dt=3.2327381955673260e-04
+Iteration stops at niter: 215 relative error: 9.8122286951234490e-07
+Iteration stops at niter: 316 relative error: 9.8748844532460630e-07
+cycle=3 time=6.4654763911346520e-04 dt=3.8496962182430481e-04
+Iteration stops at niter: 228 relative error: 9.9873217180500485e-07
+Iteration stops at niter: 331 relative error: 9.9567438950893912e-07
+cycle=4 time=1.0315172609377701e-03 dt=3.8337260920646451e-04
+Iteration stops at niter: 211 relative error: 9.8503377611037942e-07
+Iteration stops at niter: 305 relative error: 9.9827323981978205e-07
+cycle=5 time=1.4148898701442346e-03 dt=3.8305657866779738e-04
+Iteration stops at niter: 196 relative error: 9.8523687342130374e-07
+Iteration stops at niter: 282 relative error: 9.9583704919092979e-07
+cycle=6 time=1.7979464488120319e-03 dt=3.8298433003517221e-04
+Iteration stops at niter: 182 relative error: 9.9103420470663650e-07
+Iteration stops at niter: 261 relative error: 9.8657239909287244e-07
+cycle=7 time=2.1809307788472039e-03 dt=3.8299370314933692e-04
+Iteration stops at niter: 169 relative error: 9.9249240173375763e-07
+Iteration stops at niter: 241 relative error: 9.8501664029257143e-07
+cycle=8 time=2.5639244819965407e-03 dt=3.8298199299324217e-04
+Iteration stops at niter: 157 relative error: 9.8662988302250830e-07
+Iteration stops at niter: 222 relative error: 9.9192586335252187e-07
+cycle=9 time=2.9469064749897828e-03 dt=3.8297496939996737e-04
+Iteration stops at niter: 146 relative error: 9.7509210587686867e-07
+Iteration stops at niter: 205 relative error: 9.9200172657265516e-07
+cycle=10 time=3.3298814443897501e-03 dt=3.8297018884565900e-04
+Iteration stops at niter: 135 relative error: 9.8764514847844122e-07
+Iteration stops at niter: 190 relative error: 9.8624025490253318e-07
+cycle=11 time=3.7128516332354091e-03 dt=3.8296679120608491e-04
+Iteration stops at niter: 125 relative error: 9.9901735971432010e-07
+Iteration stops at niter: 176 relative error: 9.9092192777111120e-07
+cycle=12 time=4.0958184244414943e-03 dt=3.8296429340756969e-04
+Iteration stops at niter: 117 relative error: 9.8040578505383369e-07
+Iteration stops at niter: 164 relative error: 9.8616931261397844e-07
+cycle=13 time=4.4787827178490638e-03 dt=3.8296236651751288e-04
+Iteration stops at niter: 109 relative error: 9.8869434700717425e-07
+Iteration stops at niter: 153 relative error: 9.8881144572671962e-07
+cycle=14 time=4.8617450843665769e-03 dt=3.8296091213413001e-04
+Iteration stops at niter: 102 relative error: 9.9317986736111704e-07
+Iteration stops at niter: 143 relative error: 9.9516312641474744e-07
+cycle=15 time=5.2447059965007072e-03 dt=3.8295975081972702e-04
+Iteration stops at niter: 96 relative error: 9.9089765839064851e-07
+Iteration stops at niter: 135 relative error: 9.8446364207885844e-07
+cycle=16 time=5.6276657473204343e-03 dt=3.8295880485449878e-04
+Iteration stops at niter: 91 relative error: 9.7834280406600109e-07
+Iteration stops at niter: 127 relative error: 9.8853590055231518e-07
+cycle=17 time=6.0106245521749334e-03 dt=3.8295801642785124e-04
+Iteration stops at niter: 86 relative error: 9.8272177849713607e-07
+Iteration stops at niter: 120 relative error: 9.8940988877405500e-07
+cycle=18 time=6.3935825686027847e-03 dt=3.8295734803137289e-04
+Iteration stops at niter: 82 relative error: 9.7118459483195929e-07
+Iteration stops at niter: 114 relative error: 9.8252232492907783e-07
+cycle=19 time=6.7765399166341573e-03 dt=3.8295681949275317e-04
+Iteration stops at niter: 78 relative error: 9.7148893807828409e-07
+Iteration stops at niter: 108 relative error: 9.8613481310211061e-07
+cycle=20 time=7.1594967361269107e-03 dt=3.8295631549693310e-04
+Iteration stops at niter: 74 relative error: 9.8230239549343714e-07
+Iteration stops at niter: 102 relative error: 9.9958870037687970e-07
+cycle=21 time=7.5424530516238434e-03 dt=3.8295586975720434e-04
+Iteration stops at niter: 71 relative error: 9.7122972336809791e-07
+Iteration stops at niter: 98 relative error: 9.8164939231982045e-07
+cycle=22 time=7.9254089213810480e-03 dt=3.8295547571703438e-04
+Iteration stops at niter: 67 relative error: 9.9948400020960540e-07
+Iteration stops at niter: 93 relative error: 9.9265185878853378e-07
+cycle=23 time=8.3083643970980822e-03 dt=3.8295512299767518e-04
+Iteration stops at niter: 65 relative error: 9.7063735218546130e-07
+Iteration stops at niter: 89 relative error: 9.8496474252677116e-07
+cycle=24 time=8.6913195200957576e-03 dt=3.8295480695350322e-04
+Iteration stops at niter: 62 relative error: 9.7995536889720464e-07
+Iteration stops at niter: 85 relative error: 9.8673932692621819e-07
+cycle=25 time=9.0742743270492612e-03 dt=3.8295452099359009e-04
+Iteration stops at niter: 59 relative error: 9.9552211299814743e-07
+Iteration stops at niter: 81 relative error: 9.9440929471859290e-07
+cycle=26 time=9.4572288480428510e-03 dt=3.8295426111424955e-04
+Iteration stops at niter: 57 relative error: 9.8287597064658177e-07
+Iteration stops at niter: 78 relative error: 9.8374474420816374e-07
+cycle=27 time=9.8401831091571006e-03 dt=3.8295402524163351e-04
+Iteration stops at niter: 55 relative error: 9.7452645779428068e-07
+Iteration stops at niter: 74 relative error: 9.9778269106944844e-07
+cycle=28 time=1.0223137134398734e-02 dt=3.8295380915708672e-04
+Iteration stops at niter: 53 relative error: 9.7063753549604448e-07
+Iteration stops at niter: 71 relative error: 9.9639529412570898e-07
+cycle=29 time=1.0606090943555821e-02 dt=3.8295361159296443e-04
+Iteration stops at niter: 51 relative error: 9.7069442801040071e-07
+Iteration stops at niter: 68 relative error: 9.9929191352833500e-07
+cycle=30 time=1.0989044555148784e-02 dt=3.8295342976570512e-04
+Iteration stops at niter: 49 relative error: 9.7464058029191253e-07
+Iteration stops at niter: 66 relative error: 9.8448904336388897e-07
+cycle=31 time=1.1371997984914490e-02 dt=3.8295326214230543e-04
+Iteration stops at niter: 47 relative error: 9.8196372694120438e-07
+Iteration stops at niter: 63 relative error: 9.9464761687752223e-07
+cycle=32 time=1.1754951247056796e-02 dt=3.8295310671929763e-04
+Iteration stops at niter: 45 relative error: 9.9320056188431542e-07
+Iteration stops at niter: 61 relative error: 9.8628717095666996e-07
+cycle=33 time=1.2137904353776095e-02 dt=3.8295296319696288e-04
+Iteration stops at niter: 44 relative error: 9.6941431495208687e-07
+Iteration stops at niter: 58 relative error: 9.9750737940807989e-07
+cycle=34 time=1.2520857316973057e-02 dt=3.8295278288029584e-04
+Iteration stops at niter: 42 relative error: 9.8631726674695827e-07
+Iteration stops at niter: 56 relative error: 9.9438958290290988e-07
+cycle=35 time=1.2903810099853353e-02 dt=3.8295267451167084e-04
+Iteration stops at niter: 41 relative error: 9.6699322473022965e-07
+Iteration stops at niter: 54 relative error: 9.8750867613890832e-07
+cycle=36 time=1.3286762774365024e-02 dt=3.8295255802692088e-04
+Iteration stops at niter: 39 relative error: 9.8876553505648840e-07
+Iteration stops at niter: 52 relative error: 9.8853601204049360e-07
+cycle=37 time=1.3669715332391945e-02 dt=3.8295245295647261e-04
+Iteration stops at niter: 38 relative error: 9.7279051916291773e-07
+Iteration stops at niter: 50 relative error: 9.8494626266690926e-07
+cycle=38 time=1.4052667785348418e-02 dt=3.8295235431212580e-04
+Iteration stops at niter: 36 relative error: 9.9920109783745698e-07
+Iteration stops at niter: 48 relative error: 9.8952852850899539e-07
+cycle=39 time=1.4435620139660543e-02 dt=3.8295226216311580e-04
+Iteration stops at niter: 35 relative error: 9.8598110616016994e-07
+Iteration stops at niter: 46 relative error: 9.8922905321354127e-07
+cycle=40 time=1.4818572401823660e-02 dt=3.8295217662582615e-04
+Iteration stops at niter: 34 relative error: 9.7401635904284490e-07
+Iteration stops at niter: 44 relative error: 9.9013140975721650e-07
+cycle=41 time=1.5201524578449485e-02 dt=3.8295209659670415e-04
+Iteration stops at niter: 33 relative error: 9.6311690370517647e-07
+Iteration stops at niter: 42 relative error: 9.9225040064624175e-07
+cycle=42 time=1.5584476675046189e-02 dt=3.8295202203076067e-04
+Iteration stops at niter: 31 relative error: 9.9636066672612126e-07
+Iteration stops at niter: 41 relative error: 9.7804115009190729e-07
+cycle=43 time=1.5967428697076951e-02 dt=3.8295195257642554e-04
+Iteration stops at niter: 30 relative error: 9.8769524818375914e-07
+Iteration stops at niter: 39 relative error: 9.8290107018847352e-07
+cycle=44 time=1.6350380649653377e-02 dt=3.8295188732297890e-04
+Iteration stops at niter: 29 relative error: 9.8021713669162449e-07
+Iteration stops at niter: 37 relative error: 9.8921132884251932e-07
+cycle=45 time=1.6733332536976356e-02 dt=3.8295182726519160e-04
+Iteration stops at niter: 28 relative error: 9.7389153312104122e-07
+Iteration stops at niter: 35 relative error: 9.9732648871955885e-07
+cycle=46 time=1.7116284364241549e-02 dt=3.8295177161721812e-04
+Iteration stops at niter: 27 relative error: 9.6926927867493843e-07
+Iteration stops at niter: 34 relative error: 9.8078142351787070e-07
+cycle=47 time=1.7499236135858767e-02 dt=3.8295172043619993e-04
+Iteration stops at niter: 26 relative error: 9.6555182949008392e-07
+Iteration stops at niter: 32 relative error: 9.9168349810699004e-07
+cycle=48 time=1.7882187856294966e-02 dt=3.8295167208746817e-04
+Iteration stops at niter: 25 relative error: 9.6313382100069574e-07
+Iteration stops at niter: 31 relative error: 9.7801704812720106e-07
+cycle=49 time=1.8265139528382435e-02 dt=3.8295162857994989e-04
+Iteration stops at niter: 24 relative error: 9.6208907281625138e-07
+Iteration stops at niter: 29 relative error: 9.9278511567049535e-07
+cycle=50 time=1.8648091156962386e-02 dt=3.8295158727649780e-04
+Iteration stops at niter: 23 relative error: 9.6333538201045405e-07
+Iteration stops at niter: 28 relative error: 9.8309106970917374e-07
+cycle=51 time=1.9031042744238884e-02 dt=3.8295155070055013e-04
+Iteration stops at niter: 22 relative error: 9.6580296070306897e-07
+Iteration stops at niter: 27 relative error: 9.7492979697814249e-07
+cycle=52 time=1.9413994294939434e-02 dt=3.8295151604095506e-04
+Iteration stops at niter: 21 relative error: 9.6963945773307894e-07
+Iteration stops at niter: 25 relative error: 9.9519167733740668e-07
+cycle=53 time=1.9796945810980390e-02 dt=3.8295148423307576e-04
+Iteration stops at niter: 20 relative error: 9.7546291029804416e-07
+Iteration stops at niter: 24 relative error: 9.9038457540399631e-07
+cycle=54 time=2.0179897295213467e-02 dt=3.8295145670509445e-04
+Iteration stops at niter: 19 relative error: 9.8356802852240615e-07
+Iteration stops at niter: 23 relative error: 9.8806590105522696e-07
+cycle=55 time=2.0562848751918560e-02 dt=3.8295143042426456e-04
+Iteration stops at niter: 18 relative error: 9.9374018553655883e-07
+Iteration stops at niter: 22 relative error: 9.8799594283983402e-07
+cycle=56 time=2.0945800182342825e-02 dt=3.8295140666691962e-04
+Iteration stops at niter: 18 relative error: 9.5586345183543443e-07
+Iteration stops at niter: 21 relative error: 9.7695281342190241e-07
+cycle=57 time=2.1328751589009744e-02 dt=3.8295138510389503e-04
+Iteration stops at niter: 17 relative error: 9.6818174368005210e-07
+Iteration stops at niter: 20 relative error: 9.8041464857035975e-07
+cycle=58 time=2.1711702974113640e-02 dt=3.8295136550694223e-04
+Iteration stops at niter: 16 relative error: 9.8227632354509120e-07
+Iteration stops at niter: 19 relative error: 9.8539521655046186e-07
+cycle=59 time=2.2094654339620583e-02 dt=3.8295134772330959e-04
+Iteration stops at niter: 15 relative error: 9.9874980240669471e-07
+Iteration stops at niter: 18 relative error: 9.9176390681555034e-07
+cycle=60 time=2.2477605687343891e-02 dt=3.8295133166008121e-04
+Iteration stops at niter: 15 relative error: 9.6556589065286150e-07
+Iteration stops at niter: 17 relative error: 9.8709801381931224e-07
+cycle=61 time=2.2860557019003972e-02 dt=3.8295131724548425e-04
+Iteration stops at niter: 14 relative error: 9.8571952823010290e-07
+Iteration stops at niter: 16 relative error: 9.9721217747243303e-07
+cycle=62 time=2.3243508336249455e-02 dt=3.8295130479717261e-04
+Iteration stops at niter: 14 relative error: 9.5522970751572031e-07
+Iteration stops at niter: 15 relative error: 9.9488422769734916e-07
+cycle=63 time=2.3626459641046628e-02 dt=3.8295129377397333e-04
+Iteration stops at niter: 13 relative error: 9.7696120800400416e-07
+Iteration stops at niter: 15 relative error: 9.7917477911644583e-07
+cycle=64 time=2.4009410934820601e-02 dt=3.8295128493944202e-04
+Iteration stops at niter: 13 relative error: 9.4818801328716917e-07
+Iteration stops at niter: 14 relative error: 9.7868588650334053e-07
+cycle=65 time=2.4392362219760044e-02 dt=3.8295127242611961e-04
+Iteration stops at niter: 12 relative error: 9.7180786989947934e-07
+Iteration stops at niter: 13 relative error: 9.9564708063226197e-07
+cycle=66 time=2.4775313492186164e-02 dt=3.8295126642719544e-04
+Iteration stops at niter: 11 relative error: 9.9913458350279376e-07
+Iteration stops at niter: 13 relative error: 9.8561523776848487e-07
+cycle=67 time=2.5158264758613359e-02 dt=3.8295126111701156e-04
+Iteration stops at niter: 11 relative error: 9.7306018606749036e-07
+Iteration stops at niter: 12 relative error: 9.8895260677750806e-07
+cycle=68 time=2.5541216019730372e-02 dt=3.8295125076913151e-04
+Iteration stops at niter: 11 relative error: 9.4810262159382839e-07
+Iteration stops at niter: 11 relative error: 9.9377546373334159e-07
+cycle=69 time=2.5924167270499503e-02 dt=3.8295124967363162e-04
+Iteration stops at niter: 10 relative error: 9.7820573575864036e-07
+Iteration stops at niter: 11 relative error: 9.8731569358009128e-07
+cycle=70 time=2.6307118520173135e-02 dt=3.8295124959241778e-04
+Iteration stops at niter: 10 relative error: 9.5563690628521510e-07
+Iteration stops at niter: 10 relative error: 9.9439964077477926e-07
+cycle=71 time=2.6690069769765554e-02 dt=3.8295124062749474e-04
+Iteration stops at niter: 9 relative error: 9.8864840700464968e-07
+Iteration stops at niter: 10 relative error: 9.9089405785690517e-07
+cycle=72 time=2.7073021010393047e-02 dt=3.8295124433405372e-04
+Iteration stops at niter: 9 relative error: 9.6777976328270449e-07
+Iteration stops at niter: 9 relative error: 9.9976487388560714e-07
+cycle=73 time=2.7455972254727099e-02 dt=3.8295123541749764e-04
+Iteration stops at niter: 9 relative error: 9.4755890149814890e-07
+Iteration stops at niter: 9 relative error: 9.7880470135330661e-07
+cycle=74 time=2.7838923490144597e-02 dt=3.8295124152311913e-04
+Iteration stops at niter: 8 relative error: 9.8291582135462162e-07
+Iteration stops at niter: 9 relative error: 9.7599613394308448e-07
+cycle=75 time=2.8221874731667717e-02 dt=3.8295123479566010e-04
+Iteration stops at niter: 8 relative error: 9.6234275299683682e-07
+Iteration stops at niter: 8 relative error: 9.8663266786804214e-07
+cycle=76 time=2.8604825966463378e-02 dt=3.8295122860064858e-04
+Iteration stops at niter: 7 relative error: 9.9901918159965835e-07
+Iteration stops at niter: 8 relative error: 9.8625331742364644e-07
+cycle=77 time=2.8987777195064027e-02 dt=3.8295123519095186e-04
+Iteration stops at niter: 7 relative error: 9.8094082409117660e-07
+Iteration stops at niter: 8 relative error: 9.6863569666140083e-07
+cycle=78 time=2.9370728430254980e-02 dt=3.8295122660677379e-04
+Iteration stops at niter: 7 relative error: 9.6330002745289787e-07
+Iteration stops at niter: 7 relative error: 9.8204527906857527e-07
+cycle=79 time=2.9753679656861754e-02 dt=3.8295122327487534e-04
+Iteration stops at niter: 7 relative error: 9.4619365516792862e-07
+Iteration stops at niter: 6 relative error: 9.9767462304752506e-07
+cycle=80 time=3.0136630880136628e-02 dt=3.8295123033624051e-04
+Iteration stops at niter: 6 relative error: 9.8785364953810732e-07
+Iteration stops at niter: 7 relative error: 9.7151469385017774e-07
+cycle=81 time=3.0519582110472867e-02 dt=3.8295123796710048e-04
+Iteration stops at niter: 6 relative error: 9.7280768006293406e-07
+Iteration stops at niter: 6 relative error: 9.8780004994154061e-07
+cycle=82 time=3.0902533348439967e-02 dt=3.8295121936024001e-04
+Iteration stops at niter: 6 relative error: 9.5840523707371733e-07
+Iteration stops at niter: 6 relative error: 9.7329687989059233e-07
+cycle=83 time=3.1285484567800205e-02 dt=3.8295122799226843e-04
+Iteration stops at niter: 6 relative error: 9.4395114201703668e-07
+Iteration stops at niter: 5 relative error: 9.9193282900483122e-07
+cycle=84 time=3.1668435795792475e-02 dt=3.8295122401857086e-04
+Iteration stops at niter: 5 relative error: 9.8976840845768387e-07
+Iteration stops at niter: 6 relative error: 9.6826958406990002e-07
+cycle=85 time=3.2051387019811049e-02 dt=3.8295123350876850e-04
+Iteration stops at niter: 5 relative error: 9.7662984912410627e-07
+Iteration stops at niter: 5 relative error: 9.8751795475286912e-07
+cycle=86 time=3.2434338253319817e-02 dt=3.8295121336372174e-04
+Iteration stops at niter: 5 relative error: 9.6454880731071980e-07
+Iteration stops at niter: 5 relative error: 9.7519735519626583e-07
+cycle=87 time=3.2817289466683539e-02 dt=3.8295122140901436e-04
+Iteration stops at niter: 5 relative error: 9.5219354010164420e-07
+Iteration stops at niter: 4 relative error: 9.9685675053227313e-07
+cycle=88 time=3.3200240688092554e-02 dt=3.8295121908566029e-04
+Iteration stops at niter: 5 relative error: 9.4165313402325725e-07
+Iteration stops at niter: 4 relative error: 9.8634516169631594e-07
+cycle=89 time=3.3583191907178213e-02 dt=3.8295123160981106e-04
+Iteration stops at niter: 4 relative error: 9.9112517517981311e-07
+Iteration stops at niter: 5 relative error: 9.6666901416392780e-07
+cycle=90 time=3.3966143138788027e-02 dt=3.8295123268408161e-04
+Iteration stops at niter: 4 relative error: 9.8053957430054186e-07
+Iteration stops at niter: 4 relative error: 9.8825293774660384e-07
+cycle=91 time=3.4349094371472107e-02 dt=3.8295120900576536e-04
+Iteration stops at niter: 4 relative error: 9.7178353726598492e-07
+Iteration stops at niter: 4 relative error: 9.7938399967982671e-07
+cycle=92 time=3.4732045580477870e-02 dt=3.8295121881945835e-04
+Iteration stops at niter: 4 relative error: 9.6209745339974242e-07
+Iteration stops at niter: 4 relative error: 9.6953581171633702e-07
+cycle=93 time=3.5114996799297325e-02 dt=3.8295121826760270e-04
+Iteration stops at niter: 4 relative error: 9.5220774501385502e-07
+Iteration stops at niter: 3 relative error: 9.9463898828693109e-07
+cycle=94 time=3.5497948017564930e-02 dt=3.8295121729690391e-04
+Iteration stops at niter: 4 relative error: 9.4446185439873910e-07
+Iteration stops at niter: 3 relative error: 9.8743560439864594e-07
+cycle=95 time=3.5880899234861832e-02 dt=3.8295123996691990e-04
+Iteration stops at niter: 3 relative error: 9.9867967402076081e-07
+Iteration stops at niter: 4 relative error: 9.7179693657956838e-07
+cycle=96 time=3.6263850474828753e-02 dt=3.8295124145226625e-04
+Iteration stops at niter: 3 relative error: 9.9277320991377063e-07
+Iteration stops at niter: 3 relative error: 9.9802643016953488e-07
+cycle=97 time=3.6646801716281020e-02 dt=3.8295120911303014e-04
+Iteration stops at niter: 3 relative error: 9.8696212203128036e-07
+Iteration stops at niter: 3 relative error: 9.9161072738771050e-07
+cycle=98 time=3.7029752925394052e-02 dt=3.8295122829338249e-04
+Iteration stops at niter: 3 relative error: 9.8026717622598130e-07
+Iteration stops at niter: 3 relative error: 9.8473087278078676e-07
+cycle=99 time=3.7412704153687436e-02 dt=3.8295122564436227e-04
+Iteration stops at niter: 3 relative error: 9.7303213304172170e-07
+Iteration stops at niter: 3 relative error: 9.7722730654377661e-07
+cycle=100 time=3.7795655379331800e-02 dt=3.8295122662679510e-04
+Iteration stops at niter: 3 relative error: 9.6528406064084870e-07
+Iteration stops at niter: 3 relative error: 9.6930811579644441e-07
+cycle=101 time=3.8178606605958593e-02 dt=3.8295122555867463e-04
+Iteration stops at niter: 3 relative error: 9.5727459790394085e-07
+Iteration stops at niter: 3 relative error: 9.6121226029915405e-07
+cycle=102 time=3.8561557831517268e-02 dt=3.8295122471466520e-04
+Iteration stops at niter: 3 relative error: 9.4919154195448159e-07
+Iteration stops at niter: 2 relative error: 9.9301207897506901e-07
+cycle=103 time=3.8944509056231931e-02 dt=3.8295122371430633e-04
+Iteration stops at niter: 3 relative error: 9.4188294866380544e-07
+Iteration stops at niter: 2 relative error: 9.8339999825228789e-07
+cycle=104 time=3.9327460279946234e-02 dt=3.8295128954998542e-04
+Iteration stops at niter: 2 relative error: 9.9606353842377181e-07
+Iteration stops at niter: 2 relative error: 9.9499487887320569e-07
+cycle=105 time=3.9710411569496222e-02 dt=3.8295128110408058e-04
+Iteration stops at niter: 2 relative error: 9.8624534354523217e-07
+Iteration stops at niter: 2 relative error: 9.8749818650430653e-07
+cycle=106 time=4.0093362850600306e-02 dt=3.8295127338301466e-04
+Iteration stops at niter: 2 relative error: 9.8081660205156956e-07
+Iteration stops at niter: 2 relative error: 9.8164024845924278e-07
+cycle=107 time=4.0476314123983323e-02 dt=3.8295127072423283e-04
+Iteration stops at niter: 2 relative error: 9.7305612135824794e-07
+Iteration stops at niter: 2 relative error: 9.7297264771222811e-07
+cycle=108 time=4.0859265394707557e-02 dt=3.8295126700451640e-04
+Iteration stops at niter: 2 relative error: 9.6604029142303460e-07
+Iteration stops at niter: 2 relative error: 9.6690008513567604e-07
+cycle=109 time=4.1242216661712072e-02 dt=3.8295126540921688e-04
+Iteration stops at niter: 2 relative error: 9.6035455037952458e-07
+Iteration stops at niter: 2 relative error: 9.6045684292993618e-07
+cycle=110 time=4.1625167927121287e-02 dt=3.8295126439873872e-04
+Iteration stops at niter: 2 relative error: 9.5359840617526923e-07
+Iteration stops at niter: 2 relative error: 9.5367219447371292e-07
+cycle=111 time=4.2008119191520026e-02 dt=3.8295126319801533e-04
+Iteration stops at niter: 2 relative error: 9.4726036104878530e-07
+Iteration stops at niter: 2 relative error: 9.4753216032413718e-07
+cycle=112 time=4.2391070454718044e-02 dt=3.8295126223838224e-04
+Iteration stops at niter: 2 relative error: 9.4134524642795451e-07
+Iteration stops at niter: 2 relative error: 9.4145681667581546e-07
+cycle=113 time=4.2774021716956427e-02 dt=3.8295126142648514e-04
+Iteration stops at niter: 2 relative error: 9.3526380369162787e-07
+Iteration stops at niter: 2 relative error: 9.3523446154737167e-07
+cycle=114 time=4.3156972978382911e-02 dt=3.8295126056416364e-04
+Iteration stops at niter: 2 relative error: 9.2924608616281681e-07
+Iteration stops at niter: 2 relative error: 9.2937475383897581e-07
+cycle=115 time=4.3539924238947078e-02 dt=3.8295125979617283e-04
+Iteration stops at niter: 2 relative error: 9.2358333460100962e-07
+Iteration stops at niter: 1 relative error: 9.9773221354028320e-07
+cycle=116 time=4.3922875498743248e-02 dt=3.8295125907906373e-04
+Iteration stops at niter: 2 relative error: 9.1498443390848560e-07
+Iteration stops at niter: 1 relative error: 9.9381699356557177e-07
+cycle=117 time=4.4305826757822311e-02 dt=3.8295158709761128e-04
+Iteration stops at niter: 2 relative error: 9.1058650295547325e-07
+Iteration stops at niter: 1 relative error: 9.8993069927265050e-07
+cycle=118 time=4.4688778344919924e-02 dt=3.8295161889694430e-04
+Iteration stops at niter: 2 relative error: 9.0519780322609734e-07
+Iteration stops at niter: 1 relative error: 9.8624167607026643e-07
+cycle=119 time=4.5071729963816871e-02 dt=3.8295162334133848e-04
+Iteration stops at niter: 1 relative error: 9.9958440833397060e-07
+Iteration stops at niter: 2 relative error: 9.3155881743417502e-07
+cycle=120 time=4.5454681587158208e-02 dt=3.8295163010633899e-04
+Iteration stops at niter: 1 relative error: 9.9928196200178566e-07
+Iteration stops at niter: 2 relative error: 9.2651919574936878e-07
+cycle=121 time=4.5837633217264549e-02 dt=3.8295129300555577e-04
+Iteration stops at niter: 1 relative error: 9.9619641689086861e-07
+Iteration stops at niter: 1 relative error: 9.9740125124948779e-07
+cycle=122 time=4.6220584510270106e-02 dt=3.8295123311241780e-04
+Iteration stops at niter: 1 relative error: 9.9406224504423829e-07
+Iteration stops at niter: 1 relative error: 9.9427910938936758e-07
+cycle=123 time=4.6603535743382524e-02 dt=3.8295149021261396e-04
+Iteration stops at niter: 1 relative error: 9.9059797963731549e-07
+Iteration stops at niter: 1 relative error: 9.9159098933623056e-07
+cycle=124 time=4.6986487233595137e-02 dt=3.8295150296299956e-04
+Iteration stops at niter: 1 relative error: 9.8725754652134624e-07
+Iteration stops at niter: 1 relative error: 9.8864138652861668e-07
+cycle=125 time=4.7369438736558134e-02 dt=3.8295150186828144e-04
+Iteration stops at niter: 1 relative error: 9.8454387207326408e-07
+Iteration stops at niter: 1 relative error: 9.8552726638598798e-07
+cycle=126 time=4.7752390238426416e-02 dt=3.8295150229604289e-04
+Iteration stops at niter: 1 relative error: 9.8104572331195160e-07
+Iteration stops at niter: 1 relative error: 9.8273563740423221e-07
+cycle=127 time=4.8135341740722461e-02 dt=3.8295150411742524e-04
+Iteration stops at niter: 1 relative error: 9.7823163299624625e-07
+Iteration stops at niter: 1 relative error: 9.7946423521730786e-07
+cycle=128 time=4.8518293244839888e-02 dt=3.8295150565705808e-04
+Iteration stops at niter: 1 relative error: 9.7515269242619237e-07
+Iteration stops at niter: 1 relative error: 9.7661599345836149e-07
+cycle=129 time=4.8901244750496946e-02 dt=3.8295150644968370e-04
+Iteration stops at niter: 1 relative error: 9.7179240050664039e-07
+Iteration stops at niter: 1 relative error: 9.7354352162044304e-07
+cycle=130 time=4.9284196256946633e-02 dt=3.8295150636549004e-04
+Iteration stops at niter: 1 relative error: 9.6878725698614867e-07
+Iteration stops at niter: 1 relative error: 9.7036997120026154e-07
+cycle=131 time=4.9667147763312124e-02 dt=3.8295150609352459e-04
+Iteration stops at niter: 1 relative error: 9.6579119843471592e-07
+Iteration stops at niter: 1 relative error: 9.6744883105891076e-07
+cycle=132 time=5.0050099269405651e-02 dt=3.8295150589820085e-04
+Iteration stops at niter: 1 relative error: 9.6249061462390492e-07
+Iteration stops at niter: 1 relative error: 9.6434041282715656e-07
+cycle=133 time=5.0433050775303849e-02 dt=3.8295150568445549e-04
+Iteration stops at niter: 1 relative error: 9.5949342656578536e-07
+Iteration stops at niter: 1 relative error: 9.6108912678476051e-07
+cycle=134 time=5.0816002280988301e-02 dt=3.8295150539796455e-04
+Iteration stops at niter: 1 relative error: 9.5640166935373629e-07
+Iteration stops at niter: 1 relative error: 9.5814371670248821e-07
+cycle=135 time=5.1198953786386267e-02 dt=3.8295150510738005e-04
+Iteration stops at niter: 1 relative error: 9.5313590674074825e-07
+Iteration stops at niter: 1 relative error: 9.5505447848126613e-07
+cycle=136 time=5.1581905291493646e-02 dt=3.8295150480614743e-04
+Iteration stops at niter: 1 relative error: 9.5021580963943839e-07
+Iteration stops at niter: 1 relative error: 9.5197871479844166e-07
+cycle=137 time=5.1964856796299794e-02 dt=3.8295150449479780e-04
+Iteration stops at niter: 1 relative error: 9.4718176006376148e-07
+Iteration stops at niter: 1 relative error: 9.4895006074299098e-07
+cycle=138 time=5.2347808300794593e-02 dt=3.8295150417200436e-04
+Iteration stops at niter: 1 relative error: 9.4415031882953662e-07
+Iteration stops at niter: 1 relative error: 9.4593382007058504e-07
+cycle=139 time=5.2730759804966595e-02 dt=3.8295150390404059e-04
+Iteration stops at niter: 1 relative error: 9.4115087605315140e-07
+Iteration stops at niter: 1 relative error: 9.4293930358604903e-07
+cycle=140 time=5.3113711308870638e-02 dt=3.8295150360202382e-04
+Iteration stops at niter: 1 relative error: 9.3817171796491968e-07
+Iteration stops at niter: 1 relative error: 9.3996179102085966e-07
+cycle=141 time=5.3496662812472659e-02 dt=3.8295150329469040e-04
+Iteration stops at niter: 1 relative error: 9.3521245357571201e-07
+Iteration stops at niter: 1 relative error: 9.3700139351276967e-07
+cycle=142 time=5.3879614315767349e-02 dt=3.8295150295729639e-04
+Iteration stops at niter: 1 relative error: 9.3225720376132521e-07
+Iteration stops at niter: 1 relative error: 9.3405122620127544e-07
+cycle=143 time=5.4262565818724642e-02 dt=3.8295150262943241e-04
+Iteration stops at niter: 1 relative error: 9.2934968649790774e-07
+Iteration stops at niter: 1 relative error: 9.3112258130159744e-07
+cycle=144 time=5.4645517321354073e-02 dt=3.8295150230638981e-04
+Iteration stops at niter: 1 relative error: 9.2640835399364498e-07
+Iteration stops at niter: 1 relative error: 9.2817592035003527e-07
+cycle=145 time=5.5028468823660463e-02 dt=3.8295150197013199e-04
+Iteration stops at niter: 1 relative error: 9.2348262317192513e-07
+Iteration stops at niter: 1 relative error: 9.2525553425210243e-07
+cycle=146 time=5.5411420325630595e-02 dt=3.8295150165237272e-04
+Iteration stops at niter: 1 relative error: 9.2056697993279958e-07
+Iteration stops at niter: 1 relative error: 9.2233464698579499e-07
+cycle=147 time=5.5794371827282967e-02 dt=3.8295150133914801e-04
+Iteration stops at niter: 1 relative error: 9.1766967726840243e-07
+Iteration stops at niter: 1 relative error: 9.1943119329979567e-07
+cycle=148 time=5.6177323328622117e-02 dt=3.8295150101429204e-04
+Iteration stops at niter: 1 relative error: 9.1478071702966272e-07
+Iteration stops at niter: 1 relative error: 9.1654912960717582e-07
+cycle=149 time=5.6560274829636409e-02 dt=3.8295150069421214e-04
+Iteration stops at niter: 1 relative error: 9.1190622060536388e-07
+Iteration stops at niter: 1 relative error: 9.1372459862149402e-07
+cycle=150 time=5.6943226330330624e-02 dt=3.8295150039681131e-04
+Iteration stops at niter: 1 relative error: 9.0910534547146788e-07
+Iteration stops at niter: 1 relative error: 9.1087180057238497e-07
+cycle=151 time=5.7326177830727437e-02 dt=3.8295150006609349e-04
+Iteration stops at niter: 1 relative error: 9.0626784964802537e-07
+Iteration stops at niter: 1 relative error: 9.0800929070248938e-07
+cycle=152 time=5.7709129330793529e-02 dt=3.8295149976379553e-04
+Iteration stops at niter: 1 relative error: 9.0339887719249518e-07
+Iteration stops at niter: 1 relative error: 9.0513279139055288e-07
+cycle=153 time=5.8092080830557322e-02 dt=3.8295149945925979e-04
+Iteration stops at niter: 1 relative error: 9.0053908102292398e-07
+Iteration stops at niter: 1 relative error: 9.0226256866705420e-07
+cycle=154 time=5.8475032330016580e-02 dt=3.8295149914709429e-04
+Iteration stops at niter: 1 relative error: 8.9768697252941027e-07
+Iteration stops at niter: 1 relative error: 8.9941023664512368e-07
+cycle=155 time=5.8857983829163671e-02 dt=3.8295149885031005e-04
+Iteration stops at niter: 1 relative error: 8.9490190853535144e-07
+Iteration stops at niter: 1 relative error: 8.9661914262426508e-07
+cycle=156 time=5.9240935328013979e-02 dt=3.8295149854694518e-04
+Iteration stops at niter: 1 relative error: 8.9206915575362303e-07
+Iteration stops at niter: 1 relative error: 8.9377578975709454e-07
+cycle=157 time=5.9623886826560925e-02 dt=3.8295149824840079e-04
+Iteration stops at niter: 1 relative error: 8.8924206185708098e-07
+Iteration stops at niter: 1 relative error: 8.9094624305405642e-07
+cycle=158 time=6.0006838324809325e-02 dt=3.8295149794709965e-04
+Iteration stops at niter: 1 relative error: 8.8642422156695598e-07
+Iteration stops at niter: 1 relative error: 8.8817630291909929e-07
+cycle=159 time=6.0389789822756425e-02 dt=3.8295149764754673e-04
+Iteration stops at niter: 1 relative error: 8.8366405494500041e-07
+Iteration stops at niter: 1 relative error: 8.8535262328723714e-07
+cycle=160 time=6.0772741320403972e-02 dt=3.8295149736005079e-04
+Iteration stops at niter: 1 relative error: 8.8086226485973211e-07
+Iteration stops at niter: 1 relative error: 8.8255752232732624e-07
+cycle=161 time=6.1155692817764021e-02 dt=3.8295149706868360e-04
+Iteration stops at niter: 1 relative error: 8.7805909354274997e-07
+Iteration stops at niter: 1 relative error: 8.7993098799975870e-07
+cycle=162 time=6.1538644314832705e-02 dt=3.8295149678066329e-04
+Iteration stops at niter: 1 relative error: 8.7550794645270718e-07
+Iteration stops at niter: 1 relative error: 8.7717827830016161e-07
+cycle=163 time=6.1921595811613370e-02 dt=3.8295149649083014e-04
+Iteration stops at niter: 1 relative error: 8.7274865929435013e-07
+Iteration stops at niter: 1 relative error: 8.7444323158743266e-07
+cycle=164 time=6.2304547308104197e-02 dt=3.8295149621530986e-04
+Iteration stops at niter: 1 relative error: 8.6990222599273982e-07
+Iteration stops at niter: 1 relative error: 8.7153473845217070e-07
+cycle=165 time=6.2687498804319508e-02 dt=3.8295149592140764e-04
+Iteration stops at niter: 1 relative error: 8.6706623384766445e-07
+Iteration stops at niter: 1 relative error: 8.6872057801052782e-07
+cycle=166 time=6.3070450300240916e-02 dt=3.8295149564937628e-04
+Iteration stops at niter: 1 relative error: 8.6428110369683970e-07
+Iteration stops at niter: 1 relative error: 8.6594300622841290e-07
+cycle=167 time=6.3453401795890291e-02 dt=3.8295149535358175e-04
+Iteration stops at niter: 1 relative error: 8.6151251995766151e-07
+Iteration stops at niter: 1 relative error: 8.6321055097777714e-07
+cycle=168 time=6.3836353291243875e-02 dt=3.8295149508277363e-04
+Iteration stops at niter: 1 relative error: 8.5879015216627712e-07
+Iteration stops at niter: 1 relative error: 8.6045027060450632e-07
+cycle=169 time=6.4219304786326648e-02 dt=3.8295149479936828e-04
+Iteration stops at niter: 1 relative error: 8.5604117722891258e-07
+Iteration stops at niter: 1 relative error: 8.5771306618104495e-07
+cycle=170 time=6.4602256281126022e-02 dt=3.8295149453760447e-04
+Iteration stops at niter: 1 relative error: 8.5328967456747731e-07
+Iteration stops at niter: 1 relative error: 8.5496230363986490e-07
+cycle=171 time=6.4985207775663620e-02 dt=3.8295149425312852e-04
+Iteration stops at niter: 1 relative error: 8.5055531353994089e-07
+Iteration stops at niter: 1 relative error: 8.5223597851122688e-07
+cycle=172 time=6.5368159269916751e-02 dt=3.8295149398010826e-04
+Iteration stops at niter: 1 relative error: 8.4783680052831598e-07
+Iteration stops at niter: 1 relative error: 8.4951905927809698e-07
+cycle=173 time=6.5751110763896864e-02 dt=3.8295149369933253e-04
+Iteration stops at niter: 1 relative error: 8.4512712251254841e-07
+Iteration stops at niter: 1 relative error: 8.4681941270058528e-07
+cycle=174 time=6.6134062257596202e-02 dt=3.8295149343629408e-04
+Iteration stops at niter: 1 relative error: 8.4243553382875674e-07
+Iteration stops at niter: 1 relative error: 8.4413044599499383e-07
+cycle=175 time=6.6517013751032500e-02 dt=3.8295149316581399e-04
+Iteration stops at niter: 1 relative error: 8.3975132215759463e-07
+Iteration stops at niter: 1 relative error: 8.4142864480266646e-07
+cycle=176 time=6.6899965244198320e-02 dt=3.8295149290086474e-04
+Iteration stops at niter: 1 relative error: 8.3706147696033325e-07
+Iteration stops at niter: 1 relative error: 8.3873986730013596e-07
+cycle=177 time=6.7282916737099185e-02 dt=3.8295149263276290e-04
+Iteration stops at niter: 1 relative error: 8.3438117982796986e-07
+Iteration stops at niter: 1 relative error: 8.3605988791239562e-07
+cycle=178 time=6.7665868229731946e-02 dt=3.8295149236666900e-04
+Iteration stops at niter: 1 relative error: 8.3172631592161650e-07
+Iteration stops at niter: 1 relative error: 8.3340131815098209e-07
+cycle=179 time=6.8048819722098614e-02 dt=3.8295149209935175e-04
+Iteration stops at niter: 1 relative error: 8.2905560263390984e-07
+Iteration stops at niter: 1 relative error: 8.3073762306874471e-07
+cycle=180 time=6.8431771214197967e-02 dt=3.8295149183278465e-04
+Iteration stops at niter: 1 relative error: 8.2640170019586564e-07
+Iteration stops at niter: 1 relative error: 8.2807461656882285e-07
+cycle=181 time=6.8814722706030756e-02 dt=3.8295149157888852e-04
+Iteration stops at niter: 1 relative error: 8.2374925344606914e-07
+Iteration stops at niter: 1 relative error: 8.2547331763623234e-07
+cycle=182 time=6.9197674197609652e-02 dt=3.8295149130759988e-04
+Iteration stops at niter: 1 relative error: 8.2119347674410978e-07
+Iteration stops at niter: 1 relative error: 8.2285830205601379e-07
+cycle=183 time=6.9580625688917250e-02 dt=3.8295149105756909e-04
+Iteration stops at niter: 1 relative error: 8.1854312375476196e-07
+Iteration stops at niter: 1 relative error: 8.2020341558105348e-07
+cycle=184 time=6.9963577179974826e-02 dt=3.8295149079729243e-04
+Iteration stops at niter: 1 relative error: 8.1592041249579509e-07
+Iteration stops at niter: 1 relative error: 8.1757818512919240e-07
+cycle=185 time=7.0346528670772124e-02 dt=3.8295149054409262e-04
+Iteration stops at niter: 1 relative error: 8.1333018913370419e-07
+Iteration stops at niter: 1 relative error: 8.1498379989704741e-07
+cycle=186 time=7.0729480161316222e-02 dt=3.8295149028673664e-04
+Iteration stops at niter: 1 relative error: 8.1069336774009377e-07
+Iteration stops at niter: 1 relative error: 8.1234741463301640e-07
+cycle=187 time=7.1112431651602956e-02 dt=3.8295149001885923e-04
+Iteration stops at niter: 1 relative error: 8.0806533753526594e-07
+Iteration stops at niter: 1 relative error: 8.0972025877464706e-07
+cycle=188 time=7.1495383141621821e-02 dt=3.8295148978019337e-04
+Iteration stops at niter: 1 relative error: 8.0544942949412821e-07
+Iteration stops at niter: 1 relative error: 8.0710503141546575e-07
+cycle=189 time=7.1878334631402016e-02 dt=3.8295148951653394e-04
+Iteration stops at niter: 1 relative error: 8.0284137950132760e-07
+Iteration stops at niter: 1 relative error: 8.0453693905526534e-07
+cycle=190 time=7.2261286120918547e-02 dt=3.8295148926639246e-04
+Iteration stops at niter: 1 relative error: 8.0032052083529994e-07
+Iteration stops at niter: 1 relative error: 8.0196547237953917e-07
+cycle=191 time=7.2644237610184945e-02 dt=3.8295148902053189e-04
+Iteration stops at niter: 1 relative error: 7.9772290900224134e-07
+Iteration stops at niter: 1 relative error: 7.9936367118246578e-07
+cycle=192 time=7.3027189099205483e-02 dt=3.8295148877545612e-04
+Iteration stops at niter: 1 relative error: 7.9513371214522721e-07
+Iteration stops at niter: 1 relative error: 7.9677074851614198e-07
+cycle=193 time=7.3410140587980940e-02 dt=3.8295148851766672e-04
+Iteration stops at niter: 1 relative error: 7.9255295661988821e-07
+Iteration stops at niter: 1 relative error: 7.9418991817978519e-07
+cycle=194 time=7.3793092076498604e-02 dt=3.8295148827754906e-04
+Iteration stops at niter: 1 relative error: 7.8997859207360802e-07
+Iteration stops at niter: 1 relative error: 7.9161689832417472e-07
+cycle=195 time=7.4176043564776153e-02 dt=3.8295148802919244e-04
+Iteration stops at niter: 1 relative error: 7.8740997309762588e-07
+Iteration stops at niter: 1 relative error: 7.8906475784192825e-07
+cycle=196 time=7.4558995052805346e-02 dt=3.8295148778663603e-04
+Iteration stops at niter: 1 relative error: 7.8486947094601224e-07
+Iteration stops at niter: 1 relative error: 7.8650859174056529e-07
+cycle=197 time=7.4941946540591983e-02 dt=3.8295148754069637e-04
+Iteration stops at niter: 1 relative error: 7.8231158502631626e-07
+Iteration stops at niter: 1 relative error: 7.8396234784996932e-07
+cycle=198 time=7.5324898028132678e-02 dt=3.8295148728374409e-04
+Iteration stops at niter: 1 relative error: 7.7977048144489167e-07
+Iteration stops at niter: 1 relative error: 7.8141003101379755e-07
+cycle=199 time=7.5707849515416425e-02 dt=3.8295148704317969e-04
+Iteration stops at niter: 1 relative error: 7.7722503561478966e-07
+Iteration stops at niter: 1 relative error: 7.7886469866911433e-07
+cycle=200 time=7.6090801002459602e-02 dt=3.8295148680824137e-04
+Iteration stops at niter: 1 relative error: 7.7469389546941852e-07
+Iteration stops at niter: 1 relative error: 7.7633731905483897e-07
+cycle=201 time=7.6473752489267841e-02 dt=3.8295148657409344e-04
+Iteration stops at niter: 1 relative error: 7.7216899388375623e-07
+Iteration stops at niter: 1 relative error: 7.7380658687074814e-07
+cycle=202 time=7.6856703975841933e-02 dt=3.8295148632747208e-04
+Iteration stops at niter: 1 relative error: 7.6964055841255900e-07
+Iteration stops at niter: 1 relative error: 7.7127944492091836e-07
+cycle=203 time=7.7239655462169404e-02 dt=3.8295148609842201e-04
+Iteration stops at niter: 1 relative error: 7.6712753207836681e-07
+Iteration stops at niter: 1 relative error: 7.6876550931431803e-07
+cycle=204 time=7.7622606948267822e-02 dt=3.8295148586122574e-04
+Iteration stops at niter: 1 relative error: 7.6461701385088943e-07
+Iteration stops at niter: 1 relative error: 7.6625559404208529e-07
+cycle=205 time=7.8005558434129055e-02 dt=3.8295148561661970e-04
+Iteration stops at niter: 1 relative error: 7.6211311033556967e-07
+Iteration stops at niter: 1 relative error: 7.6374866642515127e-07
+cycle=206 time=7.8388509919745678e-02 dt=3.8295148538636351e-04
+Iteration stops at niter: 1 relative error: 7.5961450333530793e-07
+Iteration stops at niter: 1 relative error: 7.6124835532911273e-07
+cycle=207 time=7.8771461405132040e-02 dt=3.8295148516304659e-04
+Iteration stops at niter: 1 relative error: 7.5722077446513226e-07
+Iteration stops at niter: 1 relative error: 7.5885302277605201e-07
+cycle=208 time=7.9154412890295081e-02 dt=3.8295148491343869e-04
+Iteration stops at niter: 1 relative error: 7.5472771084016434e-07
+Iteration stops at niter: 1 relative error: 7.5635150045831747e-07
+cycle=209 time=7.9537364375208516e-02 dt=3.8295148468721639e-04
+Iteration stops at niter: 1 relative error: 7.5223924304799376e-07
+Iteration stops at niter: 1 relative error: 7.5386040305414397e-07
+cycle=210 time=7.9920315859895730e-02 dt=3.8295148446165425e-04
+Iteration stops at niter: 1 relative error: 7.4975862153735531e-07
+Iteration stops at niter: 1 relative error: 7.5138726905027871e-07
+cycle=211 time=8.0303267344357387e-02 dt=3.8295148422663218e-04
+Iteration stops at niter: 1 relative error: 7.4728943935731412e-07
+Iteration stops at niter: 1 relative error: 7.4892681104551711e-07
+cycle=212 time=8.0686218828584025e-02 dt=3.8295148399498393e-04
+Iteration stops at niter: 1 relative error: 7.4483276900137486e-07
+Iteration stops at niter: 1 relative error: 7.4668401758308448e-07
+cycle=213 time=8.1069170312579014e-02 dt=3.8295148376058853e-04
+Iteration stops at niter: 1 relative error: 7.4267064615181502e-07
+Iteration stops at niter: 1 relative error: 7.4425882997249860e-07
+cycle=214 time=8.1452121796339608e-02 dt=3.8295148354083809e-04
+Iteration stops at niter: 1 relative error: 7.4024896255066720e-07
+Iteration stops at niter: 1 relative error: 7.4188609022406106e-07
+cycle=215 time=8.1835073279880446e-02 dt=3.8295148332870288e-04
+Iteration stops at niter: 1 relative error: 7.3781056658229561e-07
+Iteration stops at niter: 1 relative error: 7.3941923799712197e-07
+cycle=216 time=8.2218024763209149e-02 dt=3.8295148309010126e-04
+Iteration stops at niter: 1 relative error: 7.3536517092671318e-07
+Iteration stops at niter: 1 relative error: 7.3696338890495969e-07
+cycle=217 time=8.2600976246299251e-02 dt=3.8295148287504927e-04
+Iteration stops at niter: 1 relative error: 7.3291928533335127e-07
+Iteration stops at niter: 1 relative error: 7.3451579402879841e-07
+cycle=218 time=8.2983927729174303e-02 dt=3.8295148264745144e-04
+Iteration stops at niter: 1 relative error: 7.3048145934107784e-07
+Iteration stops at niter: 1 relative error: 7.3207605170849901e-07
+cycle=219 time=8.3366879211821759e-02 dt=3.8295148241496429e-04
+Iteration stops at niter: 1 relative error: 7.2806398166817915e-07
+Iteration stops at niter: 1 relative error: 7.2965979875436896e-07
+cycle=220 time=8.3749830694236721e-02 dt=3.8295148220835243e-04
+Iteration stops at niter: 1 relative error: 7.2563809017204699e-07
+Iteration stops at niter: 1 relative error: 7.2722834612984530e-07
+cycle=221 time=8.4132782176445070e-02 dt=3.8295148197884450e-04
+Iteration stops at niter: 1 relative error: 7.2321852841640531e-07
+Iteration stops at niter: 1 relative error: 7.2481419737751038e-07
+cycle=222 time=8.4515733658423908e-02 dt=3.8295148176156031e-04
+Iteration stops at niter: 1 relative error: 7.2080846117122436e-07
+Iteration stops at niter: 1 relative error: 7.2240729818307544e-07
+cycle=223 time=8.4898685140185462e-02 dt=3.8295148154937424e-04
+Iteration stops at niter: 1 relative error: 7.1840920809523014e-07
+Iteration stops at niter: 1 relative error: 7.2000823310498317e-07
+cycle=224 time=8.5281636621734838e-02 dt=3.8295148132431360e-04
+Iteration stops at niter: 1 relative error: 7.1601562508600205e-07
+Iteration stops at niter: 1 relative error: 7.1761480814538945e-07
+cycle=225 time=8.5664588103059158e-02 dt=3.8295148111768440e-04
+Iteration stops at niter: 1 relative error: 7.1362808802467541e-07
+Iteration stops at niter: 1 relative error: 7.1522735070213235e-07
+cycle=226 time=8.6047539584176838e-02 dt=3.8295148090255202e-04
+Iteration stops at niter: 1 relative error: 7.1115237894884166e-07
+Iteration stops at niter: 1 relative error: 7.1291399244670360e-07
+cycle=227 time=8.6430491065079385e-02 dt=3.8295148068027816e-04
+Iteration stops at niter: 1 relative error: 7.0879052318714073e-07
+Iteration stops at niter: 1 relative error: 7.1054509849923309e-07
+cycle=228 time=8.6813442545759664e-02 dt=3.8295148047219759e-04
+Iteration stops at niter: 1 relative error: 7.0659334830048118e-07
+Iteration stops at niter: 1 relative error: 7.0801740848310787e-07
+cycle=229 time=8.7196394026231860e-02 dt=3.8295148025801221e-04
+Iteration stops at niter: 1 relative error: 7.0419475283849590e-07
+Iteration stops at niter: 1 relative error: 7.0582099110402369e-07
+cycle=230 time=8.7579345506489867e-02 dt=3.8295148004830349e-04
+Iteration stops at niter: 1 relative error: 7.0169369501210854e-07
+Iteration stops at niter: 1 relative error: 7.0345185074319174e-07
+cycle=231 time=8.7962296986538166e-02 dt=3.8295147983603123e-04
+Iteration stops at niter: 1 relative error: 6.9950878248114714e-07
+Iteration stops at niter: 1 relative error: 7.0094214190251224e-07
+cycle=232 time=8.8345248466374190e-02 dt=3.8295147962538804e-04
+Iteration stops at niter: 1 relative error: 6.9714948372354136e-07
+Iteration stops at niter: 1 relative error: 6.9875903940603398e-07
+cycle=233 time=8.8728199945999578e-02 dt=3.8295147941374571e-04
+Iteration stops at niter: 1 relative error: 6.9467698484545243e-07
+Iteration stops at niter: 1 relative error: 6.9633977767500509e-07
+cycle=234 time=8.9111151425413329e-02 dt=3.8295147921585832e-04
+Iteration stops at niter: 1 relative error: 6.9263030596064968e-07
+Iteration stops at niter: 1 relative error: 6.9403793512990713e-07
+cycle=235 time=8.9494102904629183e-02 dt=3.8295147899991046e-04
+Iteration stops at niter: 1 relative error: 6.9011905533253164e-07
+Iteration stops at niter: 1 relative error: 6.9164704271561541e-07
+cycle=236 time=8.9877054383629099e-02 dt=3.8295147879249553e-04
+Iteration stops at niter: 1 relative error: 6.8752351822626628e-07
+Iteration stops at niter: 1 relative error: 6.8923117860221620e-07
+cycle=237 time=9.0260005862421597e-02 dt=3.8295147860538398e-04
+Iteration stops at niter: 1 relative error: 6.8532129189361348e-07
+Iteration stops at niter: 1 relative error: 6.8669489407472909e-07
+cycle=238 time=9.0642957341026981e-02 dt=3.8295147838640891e-04
+Iteration stops at niter: 1 relative error: 6.8269333451187917e-07
+Iteration stops at niter: 1 relative error: 6.8448094444003646e-07
+cycle=239 time=9.1025908819413387e-02 dt=3.8295147819496488e-04
+Iteration stops at niter: 1 relative error: 6.8062033055586404e-07
+Iteration stops at niter: 1 relative error: 6.8201424628493130e-07
+cycle=240 time=9.1408860297608349e-02 dt=3.8295147798869623e-04
+Iteration stops at niter: 1 relative error: 6.7804422189879578e-07
+Iteration stops at niter: 1 relative error: 6.7951452365950364e-07
+cycle=241 time=9.1791811775597046e-02 dt=3.8295147777899982e-04
+Iteration stops at niter: 1 relative error: 6.7589157512425793e-07
+Iteration stops at niter: 1 relative error: 6.7754736425433916e-07
+cycle=242 time=9.2174763253376049e-02 dt=3.8295147758114919e-04
+Iteration stops at niter: 1 relative error: 6.7353430459809295e-07
+Iteration stops at niter: 1 relative error: 6.7501724423856850e-07
+cycle=243 time=9.2557714730957197e-02 dt=3.8295147739176856e-04
+Iteration stops at niter: 1 relative error: 6.7106237926307046e-07
+Iteration stops at niter: 1 relative error: 6.7257511763202007e-07
+cycle=244 time=9.2940666208348968e-02 dt=3.8295147718829384e-04
+Iteration stops at niter: 1 relative error: 6.6868484424175932e-07
+Iteration stops at niter: 1 relative error: 6.7021204091842396e-07
+cycle=245 time=9.3323617685537263e-02 dt=3.8295147699110154e-04
+Iteration stops at niter: 1 relative error: 6.6632212685799820e-07
+Iteration stops at niter: 1 relative error: 6.6787664453895317e-07
+cycle=246 time=9.3706569162528369e-02 dt=3.8295147678938762e-04
+Iteration stops at niter: 1 relative error: 6.6398093927601671e-07
+Iteration stops at niter: 1 relative error: 6.6554895798435261e-07
+cycle=247 time=9.4089520639317761e-02 dt=3.8295147659027557e-04
+Iteration stops at niter: 1 relative error: 6.6168569411612582e-07
+Iteration stops at niter: 1 relative error: 6.6324137532107939e-07
+cycle=248 time=9.4472472115908035e-02 dt=3.8295147640264994e-04
+Iteration stops at niter: 1 relative error: 6.5936981942721725e-07
+Iteration stops at niter: 1 relative error: 6.6093892466188198e-07
+cycle=249 time=9.4855423592310681e-02 dt=3.8295147621148103e-04
+Iteration stops at niter: 1 relative error: 6.5707767331690841e-07
+Iteration stops at niter: 1 relative error: 6.5863800978152581e-07
+cycle=250 time=9.5238375068522160e-02 dt=3.8295147601032607e-04
+Iteration stops at niter: 1 relative error: 6.5477992895978213e-07
+Iteration stops at niter: 1 relative error: 6.5635282797219515e-07
+cycle=251 time=9.5621326544532481e-02 dt=3.8295147582514488e-04
+Iteration stops at niter: 1 relative error: 6.5250582636946429e-07
+Iteration stops at niter: 1 relative error: 6.5406652379588033e-07
+cycle=252 time=9.6004278020357631e-02 dt=3.8295147563278877e-04
+Iteration stops at niter: 1 relative error: 6.5022161868467632e-07
+Iteration stops at niter: 1 relative error: 6.5179593533897149e-07
+cycle=253 time=9.6387229495990420e-02 dt=3.8295147544558007e-04
+Iteration stops at niter: 1 relative error: 6.4796534692827458e-07
+Iteration stops at niter: 1 relative error: 6.4952795275738325e-07
+cycle=254 time=9.6770180971435998e-02 dt=3.8295147524224576e-04
+Iteration stops at niter: 1 relative error: 6.4571727742301049e-07
+Iteration stops at niter: 1 relative error: 6.4727899248000929e-07
+cycle=255 time=9.7153132446678239e-02 dt=3.8295147507162036e-04
+Iteration stops at niter: 1 relative error: 6.4345290065405819e-07
+Iteration stops at niter: 1 relative error: 6.4502748640255382e-07
+cycle=256 time=9.7536083921749867e-02 dt=3.8295147487385028e-04
+Iteration stops at niter: 1 relative error: 6.4122301671648627e-07
+Iteration stops at niter: 1 relative error: 6.4278844214858145e-07
+cycle=257 time=9.7919035396623721e-02 dt=3.8295147469093058e-04
+Iteration stops at niter: 1 relative error: 6.3897848872906544e-07
+Iteration stops at niter: 1 relative error: 6.4053708556236784e-07
+cycle=258 time=9.8301986871314653e-02 dt=3.8295147451147566e-04
+Iteration stops at niter: 1 relative error: 6.3673493700030978e-07
+Iteration stops at niter: 1 relative error: 6.3829898815110583e-07
+cycle=259 time=9.8684938345826131e-02 dt=3.8295147432016179e-04
+Iteration stops at niter: 1 relative error: 6.3451555827613721e-07
+Iteration stops at niter: 1 relative error: 6.3607395304224354e-07
+cycle=260 time=9.9067889820146290e-02 dt=3.8295147413352929e-04
+Iteration stops at niter: 1 relative error: 6.3228342230804298e-07
+Iteration stops at niter: 1 relative error: 6.3382932774435365e-07
+cycle=261 time=9.9450841294279821e-02 dt=3.8295147395642779e-04
+Iteration stops at niter: 1 relative error: 6.3005172075883003e-07
+Iteration stops at niter: 1 relative error: 6.3160139850908618e-07
+cycle=262 time=9.9833792768236243e-02 dt=1.6620723176376251e-04
+Iteration stops at niter: 1 relative error: 7.0914207686474459e-07
+Iteration stops at niter: 1 relative error: 6.1554034339979435e-07
+cycle=263 time=1.0000000000000001e-01 dt=3.3241446352752502e-04
+
+Terminating on time limit
+time=1.0000000000000001e-01 cycle=263
+tlim=1.0000000000000001e-01 nlim=-1
+
+zone-cycles = 34471936
+cpu time used  = 1.4704507220000000e+03
+zone-cycles/cpu_second = 2.3443108622581913e+04

@@ -1,0 +1,115 @@
+<comment>
+problem   = Keplerian disk in spherical polar coordinates
+reference = 
+configure = --prob=disk_radiation_taubc --coord=spherical_polar -radiation
+
+<job>
+problem_id  = disk      # problem ID: basename of output filenames
+
+<output1>
+file_type   = hdf5       # VTK data dump
+variable   = prim
+xdmf       = 0
+dt          = 0.001 # 2.0867454137524447e-03 # time increment between outputs
+
+<output2>
+file_type   = hst       # History data dump
+dt          = 6.28    # time increment between outputs
+
+<output3>
+file_type   = rst
+dt          = 24.93276869834664
+
+<time>
+cfl_number  = 0.4      # The Courant, Friedrichs, & Lewy (CFL) Number
+nlim        = -1       # cycle limit
+tlim        = 0.1 #2.0867454137524447e-03         # time limit
+integrator  = vl2       # time integration algorithm
+xorder      = 2         # order of spatial reconstruction
+ncycle_out  = 1         # interval for stdout summary info
+
+<mesh>
+nx1              = 128                 # Number of zones in X1-direction
+x1min            = 0.250163663377926   # minimum value of X1
+x1max            = 2.501636633779264   # maximum value of X1
+x1rat            = 1.018151721718182   # geometric spacing factor
+ix1_bc           = user                # inner-X1 boundary flag
+ox1_bc           = user                # outer-X1 boundary flag
+
+nx2              = 1024                 # Number of zones in X2-direction
+x2min            = 0.                   # minimum value of X2
+x2max            = 3.141592653589793    # maximum value of X2
+ix2_bc           = polar_wedge        # inner-X2 boundary flag
+ox2_bc           = polar_wedge        # outer-X2 boundary flag
+
+nx3         = 1              # Number of zones in X3-direction
+x3min       = 0.0            # minimum value of X3
+x3max       = 6.2831853071795862  # maximum value of X3
+ix3_bc      = periodic       # Inner-X3 boundary condition flag
+ox3_bc      = periodic       # Outer-X3 boundary condition flag
+
+refinement  = None
+
+<meshblock>
+nx1         = 32
+nx2         = 32
+nx3         = 1
+
+
+<hydro>
+gamma           = 1.4 # gamma = C_p/C_v
+iso_sound_speed = 0.1        # isothermal sound speed
+dfloor          = 1.e-12
+pfloor          = 1.e-20
+
+<orbital_advection>
+OAorder     = 0   # 0: w/o OA, 1: w/ OA (1st), 2: w/ OA (2nd)
+Omega0      = 0.0 # angular velocity of the system
+
+<radiation>
+nmu             = 3
+Prat            = 1130.0
+Crat            = 63628.40570337487
+reduced_factor  = 1
+angle_flag      = 1
+npsi            = 2
+nzeta           = 4
+
+rhounit         = 4.28e-14
+Tunit           = 6140.0
+lunit           = 5.98e14  
+
+tfloor          = 1e-10
+tceiling        = 0.1
+
+Planck          = 1
+
+kappa_s         = 0
+kappa_star      = 3994.97
+
+r_star          =  1.16e-4 # stellar radius, solar radius is 0.00465047 au
+t_star          =   9.42e-1 # stellar temperature
+t_bkg           =  0 # 1.63e-3
+
+cavity_fac      = 2.5
+r_c             = 2.5
+width_tanh      = 0.1
+
+error_limit     = 1e-6
+
+cfl_rad         = 1e-4
+molecular_weight = 2.3
+dgratio         = 1 
+small_grain_ratio= 1 # 0.02184
+
+source_flag     = 2
+<problem>
+GM          = 1.0
+r0          = 0.425278227742474
+rho0        = 0.2
+p0_over_r0  = 4.8e-3
+pslope      = -0.5
+dslope      = -2.25
+amp_shadow  = 0.
+sigma_shadow= 1.5
+t_growth    = 62800

@@ -1,0 +1,89 @@
+<comment>
+problem          = DSHARP opacities
+reference        = 
+configure        = --prob irrad_disk --coord spherical_polar -implicit_radiation -mpi -hdf5 -h5double
+
+<job>
+problem_id       = dsharp              # basename of output filenames
+
+<output1>
+file_type        = hdf5                # HDF5 data dump
+variable         = prim                # output variables
+dt               = 1                   # time increment between outputs
+xdmf             = 0                   # disable XDMF output (VisIt)
+
+<output3>
+file_type        = hst                 # HDF5 data dump
+dt               = 1e-9                # time increment between outputs
+
+<output4>
+file_type        = rst                 # restart file
+dt               = 0.1                 # time increment between outputs
+
+<time>
+cfl_number       = 0.1                 # The Courant, Friedrichs & Lewy No.
+nlim             = -1                  # cycle limit
+tlim             = 0.1                 # time limit
+ncycle_out       = 1                   # interval for stdout summary info
+
+<mesh>
+nx1              = 128                 # Number of zones in X1-direction
+x1min            = 0.250163663377926   # minimum value of X1
+x1max            = 2.501636633779264   # maximum value of X1
+x1rat            = 1.018151721718182   # geometric spacing factor
+ix1_bc           = user                # inner-X1 boundary flag
+ox1_bc           = user                # outer-X1 boundary flag
+
+nx2              = 1024                # Number of zones in X2-direction
+x2min            = 0                   # minimum value of X2
+x2max            = 3.141592653589793   # maximum value of X2
+ix2_bc           = polar_wedge         # inner-X2 boundary flag
+ox2_bc           = polar_wedge         # outer-X2 boundary flag
+
+nx3              = 1                   # Number of zones in X3-direction
+x3min            = 0.0                 # minimum value of X3
+x3max            = 6.283185307179586   # maximum value of X3
+ix3_bc           = periodic            # inner-X3 boundary flag
+ox3_bc           = periodic            # outer-X3 boundary flag
+
+<meshblock>
+nx1              = 32
+nx2              = 32
+nx3              = 1
+
+<hydro>
+gamma            = 1.6666666666667     # gamma = C_p/C_v = 1 + 2/DoF
+dfloor           = 1e-12               # minimum density
+
+<radiation>
+cfl_rad          = 1.0                 # CFL No. for implicit radiation step
+reduced_factor   = 0.01                # Reduced (fraction of) speed of light
+angle_flag       = 1                   # rotate angular system with local coords
+polar_angle      = 1                   # add radial rays
+nmu              = 1                   # unused but expected to avoid fatal error
+nzeta            = 4                   # no. of polar angles (0 to pi/2)
+npsi             = 2                   # no. of azimuthal angles (0 to pi)
+n_frequency      = 3                   # no. of frequency groups
+frequency_min    = 1e10                # [0, \nu_min) [k_BT_0/h] < 0 < [Hz]
+frequency_max    = 1e15                # [\nu_max, \infty) [k_BT_0/h] < 0 < [Hz]
+unit             = 1                   # compute prat & crat from user-provided units
+T_unit           = 6.14e3              # T_0 [K]
+density_unit     = 4.28e-14            # \rho_0 [g/cm^3]
+length_unit      = 5.98e14             # L_0 [cm]
+molecular_weight = 0.6                 # \mu [g/mol]
+nlimit           = 1000                # maximum no. of iterations to try
+error_limit      = 1e-6                # tolerance level of iteration
+source_flag      = 2                   # do not heat (0) or heat (1/2) the gas
+
+<problem>
+r0               = 0.425278227742474   # disk length normalization [L_0]
+rho0             = 0.2                 # disk density normalization [\rho_0]
+p0_over_r0       = 4.80e-03            # (H/r0)^2
+pslope           = -0.5                # pressure power-law index
+dslope           = -2.25               # density power-law index
+r_star           = 1.16e-4             # solar radius [L_0]
+t_star           = 9.42e-1             # solar temperature [T_0]
+n_temperature    = 1000                # no. of temperature groups
+temperature_min  = 10                  # min mean opacity temperature [K]
+temperature_max  = 1e4                 # max mean opacity temperature [K]
+frequency_table  = 1                   # custom frequencies [k_BT_0/h] < 0 < [Hz]
