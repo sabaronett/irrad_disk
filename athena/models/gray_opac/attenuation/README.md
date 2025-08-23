@@ -1,0 +1,4 @@
+# Gray Attenuation
+
+Gray absorption models presented in Baronett, Jiang et al. (2025, Section 4.2.1), where stellar irradiation energy is purely attenuated (and not absorbed as a heat source) by setting `<radiation>/source_flag = 0` in the Athena++ input file (e.g., [`athinput.dsharp`](https://github.com/sabaronett/irrad_disk/blob/e19104c3d6068d878f17c0366727f729a4e96bb9/athena/models/gray_opac/attenuation/1024/athinput.dsharp#L75)).
+Directories correspond to the number of logarithmically spaced grid cells in the radial direction (i.e., [`<mesh>/nx1`](https://github.com/sabaronett/irrad_disk/blob/e19104c3d6068d878f17c0366727f729a4e96bb9/athena/models/gray_opac/attenuation/1024/athinput.dsharp#L32))
