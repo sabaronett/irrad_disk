@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1027371538.svg)](https://doi.org/10.5281/zenodo.16934709)
+
 # irrad_disk
 
 Resources related to Baronett, Jiang et al. (2025, Appx. A):
