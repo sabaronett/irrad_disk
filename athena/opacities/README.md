@@ -9,17 +9,17 @@ Upon execution (e.g., via `$ python athena_opac.py`), it precomputes band-mean o
 
 ### [`kappa_pf_table.txt`](https://github.com/sabaronett/irrad_disk/blob/main/athena/models/dsharp_abs-sca/nfreq/3/kappa_pf_table.txt)
 
-[$N_f$](https://github.com/sabaronett/irrad_disk/blob/f7ee62d3f50dcabcd4281b8726955f0f91c207b6/athena/models/dsharp_abs-sca/nfreq/3/athinput.dsharp#L66) columns, with [`<problem>/n_temperature`](https://github.com/sabaronett/irrad_disk/blob/f7ee62d3f50dcabcd4281b8726955f0f91c207b6/athena/models/dsharp_abs-sca/nfreq/3/athinput.dsharp#L86) rows, of $\kappa_{\mathrm{p},f\mathrm{(,e)}}$ [Baronett, Jiang et al. 2025, equation (8)].
+$N_f$ ([`<radiation>/n_frequency`](https://github.com/sabaronett/irrad_disk/blob/f7ee62d3f50dcabcd4281b8726955f0f91c207b6/athena/models/dsharp_abs-sca/nfreq/3/athinput.dsharp#L66)) columns, with [`<problem>/n_temperature`](https://github.com/sabaronett/irrad_disk/blob/f7ee62d3f50dcabcd4281b8726955f0f91c207b6/athena/models/dsharp_abs-sca/nfreq/3/athinput.dsharp#L86) rows, of $\kappa_{\mathrm{p},f\mathrm{(,e)}}$ [Baronett, Jiang et al. 2025, equation (8)].
 
 
 ### [`kappa_rf_table.txt`](https://github.com/sabaronett/irrad_disk/blob/main/athena/models/dsharp_abs-sca/nfreq/3/kappa_rf_table.txt)
 
-[$N_f$](https://github.com/sabaronett/irrad_disk/blob/f7ee62d3f50dcabcd4281b8726955f0f91c207b6/athena/models/dsharp_abs-sca/nfreq/3/athinput.dsharp#L66) columns, with [`<problem>/n_temperature`](https://github.com/sabaronett/irrad_disk/blob/f7ee62d3f50dcabcd4281b8726955f0f91c207b6/athena/models/dsharp_abs-sca/nfreq/3/athinput.dsharp#L86) rows, of $\kappa_{\mathrm{r},f}$ [Baronett, Jiang et al. 2025, equation (9)].
+$N_f$ ([`<radiation>/n_frequency`](https://github.com/sabaronett/irrad_disk/blob/f7ee62d3f50dcabcd4281b8726955f0f91c207b6/athena/models/dsharp_abs-sca/nfreq/3/athinput.dsharp#L66)) columns, with [`<problem>/n_temperature`](https://github.com/sabaronett/irrad_disk/blob/f7ee62d3f50dcabcd4281b8726955f0f91c207b6/athena/models/dsharp_abs-sca/nfreq/3/athinput.dsharp#L86) rows, of $\kappa_{\mathrm{r},f}$ [Baronett, Jiang et al. 2025, equation (9)].
 
 
 ### [`kappa_sf_table.txt`](https://github.com/sabaronett/irrad_disk/blob/main/athena/models/dsharp_abs-sca/nfreq/3/kappa_sf_table.txt)
 
-[$N_f$](https://github.com/sabaronett/irrad_disk/blob/f7ee62d3f50dcabcd4281b8726955f0f91c207b6/athena/models/dsharp_abs-sca/nfreq/3/athinput.dsharp#L66) columns, with [`<problem>/n_temperature`](https://github.com/sabaronett/irrad_disk/blob/f7ee62d3f50dcabcd4281b8726955f0f91c207b6/athena/models/dsharp_abs-sca/nfreq/3/athinput.dsharp#L86) rows, of $\kappa_{\mathrm{s},f}$ [Baronett, Jiang et al. 2025, equation (10)].
+$N_f$ ([`<radiation>/n_frequency`](https://github.com/sabaronett/irrad_disk/blob/f7ee62d3f50dcabcd4281b8726955f0f91c207b6/athena/models/dsharp_abs-sca/nfreq/3/athinput.dsharp#L66)) columns, with [`<problem>/n_temperature`](https://github.com/sabaronett/irrad_disk/blob/f7ee62d3f50dcabcd4281b8726955f0f91c207b6/athena/models/dsharp_abs-sca/nfreq/3/athinput.dsharp#L86) rows, of $\kappa_{\mathrm{s},f}$ [Baronett, Jiang et al. 2025, equation (10)].
 
 
 ### [`temp_table.txt`](https://github.com/sabaronett/irrad_disk/blob/main/athena/models/dsharp_abs-sca/nfreq/3/temp_table.txt)
