@@ -3,7 +3,7 @@
 
 ## `athena_opac.py`
 
-Along with a [RADMC-3D formatted](https://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/manual_radmc3d/inputoutputfiles.html#the-dustkappa-inp-files) monochromatic opacity file (e.g., [`dustkappa_dsharp.inp`](#dustkappa_dsharp.inp)), this script should be placed within an Athena++ model or run directory (e.g., [`models/dsharp_abs-sca/nfreq/64`](https://github.com/sabaronett/irrad_disk/tree/main/athena/models/dsharp_abs-sca/nfreq/64)).
+Along with a [RADMC-3D formatted](https://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/manual_radmc3d/inputoutputfiles.html#the-dustkappa-inp-files) monochromatic opacity file (e.g., [`dustkappa_dsharp.inp`](https://github.com/sabaronett/irrad_disk/tree/main/athena/opacities#dustkappa_dsharpinp)), this script should be placed within an Athena++ model or run directory (e.g., [`models/dsharp_abs-sca/nfreq/64`](https://github.com/sabaronett/irrad_disk/tree/main/athena/models/dsharp_abs-sca/nfreq/64)).
 Upon execution (e.g., via `$ python athena_opac.py`), it precomputes band-mean opacity coefficients based on the corresponding Athena++ input file (e.g., [`athinput.dsharp`](https://github.com/sabaronett/irrad_disk/blob/main/athena/models/dsharp_abs-sca/nfreq/64/athinput.dsharp)) and outputs the following files as required by our problem generator [`irrad_disk.cpp`](https://github.com/sabaronett/irrad_disk/blob/main/athena/src/pgen/irrad_disk.cpp):
 
 
