@@ -2,7 +2,7 @@
 
 # irrad_disk
 
-Resources related to Baronett, Jiang et al. (2025, Appx. A):
+Resources related to Baronett, Jiang et al. (submitted, Appx. A):
 - [Athena++](/athena)
   - [Source files](/athena/src)
   - [Models](/athena/models)
@@ -23,7 +23,7 @@ Please see subdirectories for details.
 
 ## Data Availability
 
-The remaining data underlying Baronett, Jiang et al. (2025) can be shared upon reasonable request to the corresponding author.
+The remaining data underlying Baronett, Jiang et al. (submitted) can be shared upon reasonable request to the corresponding author.
 
 
 ## Issues
