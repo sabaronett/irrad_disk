@@ -23,6 +23,7 @@
 # Created: 2024-04-19
 # Updated: 2025-03-01
 #===============================================================================
+import argparse
 import numpy as np
 from pathlib import Path
 from radmc3dPy import analyze
@@ -33,6 +34,13 @@ import sys
 sys.path.insert(0,'/home/stanley/github/PrincetonUniversity/athena/vis/python')
 import athena_read
 import warnings
+
+# Parse command-line arguments
+parser = argparse.ArgumentParser(
+    description='Creates multifrequency opacity tables for input into Athena++.')
+parser.add_argument('--ext', default='dsharp',
+                    help='opacity source extension for readOpac (default: dsharp)')
+args = parser.parse_args()
 
 # Convert constants from SI to cgs
 c *= 1e2
@@ -112,9 +120,7 @@ def RosselandMeanOpacities(kappa_nu, dBnu_dT, nu):
     return kappa
 
 # Read absorption coefficient as a function of frequency
-fname = list(Path('./').glob(f'dustkappa_*.inp'))[0].parts[0]
-ext = fname[10:-4]
-opac = analyze.readOpac(ext=['dsharp'])
+opac = analyze.readOpac(ext=[f'{args.ext}'])
 opac_freq = np.flip(1e4*c/opac.wav[0])
 opac_kabs = np.flip(opac.kabs[0])
 opac_ksca = np.flip(opac.ksca[0])
