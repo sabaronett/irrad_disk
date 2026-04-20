@@ -114,7 +114,7 @@ def RosselandMeanOpacities(kappa_nu, dBnu_dT, nu):
 # Read absorption coefficient as a function of frequency
 fname = list(Path('./').glob(f'dustkappa_*.inp'))[0].parts[0]
 ext = fname[10:-4]
-opac = analyze.readOpac(ext=['dsharp'])
+opac = analyze.readOpac(ext=ext)
 opac_freq = np.flip(1e4*c/opac.wav[0])
 opac_kabs = np.flip(opac.kabs[0])
 opac_ksca = np.flip(opac.ksca[0])
