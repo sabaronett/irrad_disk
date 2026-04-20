@@ -77,7 +77,7 @@ source_flag      = 2                   # do not heat (0) or heat (1/2) the gas
 
 <problem>
 r0               = 0.425278227742474   # disk length normalization [L_0]
-rho0             = 0.2                 # disk density normalization [\rho_0]
+rho0             = 0.0                 # disk density normalization [\rho_0]
 p0_over_r0       = 4.80e-03            # (H/r0)^2
 pslope           = -0.5                # pressure power-law index
 dslope           = -2.25               # density power-law index
