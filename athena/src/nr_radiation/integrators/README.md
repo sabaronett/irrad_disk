@@ -1,6 +1,6 @@
 # `rad_source.cpp`
 
-For consistency and to improve the performance of the iterative implicit solver ([Jiang 2021](https://ui.adsabs.harvard.edu/abs/2021ApJS..253...49J/abstract), $\S$ 3.2.2), lines similar to the following must be commented out to remove radiation pressure as a source of momentum for the fluid:
+To maintain consistency with changes made to [`time_integrator.cpp`](../../task_list/README.md) to allow only the radiation field to evolve (hydrostatically) toward thermal equilibrium, and to improve the performance of the iterative implicit solver ([Jiang 2021](https://ui.adsabs.harvard.edu/abs/2021ApJS..253...49J/abstract), $\S$ 3.2.2), lines similar to the following within the `rad_source.cpp` source file must be commented out to remove radiation pressure as a source of momentum for the fluid:
 
 ```cpp
 ...

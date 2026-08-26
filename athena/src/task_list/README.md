@@ -1,6 +1,6 @@
 # `time_integrator.cpp`
 
-Lines similar to the following must be commented out to not add flux divergence to the hydrodynamic variables during the integration time-step routine, effectively fixing the density field in time:
+To allow only the radiation field to evolve (hydrostatically) toward thermal equilibrium, lines similar to the following within the `time_integrator.cpp` source file must be commented out to not add flux divergence to the hydrodynamic variables during the integration time-step routine, which effectively fixes the density field in time:
 
 ```cpp
 ...
